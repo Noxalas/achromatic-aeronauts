@@ -1,0 +1,13 @@
+name = "Cook's Collection"
+filename = "cookscollection-0.5.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QC7N8ljN/versions/d3i2AwRr/cookscollection-0.5.7.jar"
+hash-format = "sha512"
+hash = "d99d35fb0f7c9d362f1f8d443973665cdd9f4147fed1b7e8c63c746c6c012c92accc9e22c5a8678c56b15ef2fcead4ad2a09e439c223493a84c811dc9d1c3d45"
+
+[update]
+[update.modrinth]
+mod-id = "QC7N8ljN"
+version = "d3i2AwRr"

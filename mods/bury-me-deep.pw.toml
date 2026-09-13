@@ -1,0 +1,13 @@
+name = "Bury Me Deep"
+filename = "bury_me_deep-1.21.1-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Sa8lEyhX/versions/5cgTONdy/bury_me_deep-1.21.1-2.0.0.jar"
+hash-format = "sha512"
+hash = "82c2fce362d6d3401ddcd70c9e0a0daef326328ddeeba1a41f94b4e6e19807971f410d25185ecfd72b376665eea7fb1779807f19cbafc0bb2cf7166b017b7cd2"
+
+[update]
+[update.modrinth]
+mod-id = "Sa8lEyhX"
+version = "5cgTONdy"

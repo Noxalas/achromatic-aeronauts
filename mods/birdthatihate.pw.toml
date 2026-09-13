@@ -1,0 +1,13 @@
+name = "That Bird That I Hate"
+filename = "birdthatihate-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3mNzSY61/versions/l5ZubGBB/birdthatihate-1.0.0.jar"
+hash-format = "sha512"
+hash = "56ec3b46758ff3dee4b0c9496a47daf80a106cbaac1baa9a0ea46a0ce68d5e6bcb616ae1799c6d1e12aefc808b960bf7905c71fd07e2e35d0ed2ce6821aa43e1"
+
+[update]
+[update.modrinth]
+mod-id = "3mNzSY61"
+version = "l5ZubGBB"

@@ -1,0 +1,13 @@
+name = "McMouser"
+filename = "mcmouser-1.21-neoforge-1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/aXReRvgU/versions/Gb0f41Fx/mcmouser-1.21-neoforge-1.0.1.jar"
+hash-format = "sha512"
+hash = "6c46a1a40f6f32c58a9145ad4d99ff5f6751aafcf3ff8dab16e32c74321604bf3d25d5aa929b63db4de87209b2eb4a54a362e59a4fcf808ca188b67f5012a923"
+
+[update]
+[update.modrinth]
+mod-id = "aXReRvgU"
+version = "Gb0f41Fx"

@@ -1,0 +1,13 @@
+name = "Biome Cleaner"
+filename = "biomecleaner-mc1.21.1-1.1.8-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mzuh1rlR/versions/dAg7suGj/biomecleaner-mc1.21.1-1.1.8-neoforge.jar"
+hash-format = "sha512"
+hash = "89e1c0a4219c48dc4e97c1efb526bd00b9a7243d5b13a3f42e19d4153f78707c4409693f8a179612e36bb1dcf778c9a09380313494b0a4f984559ca79ba539d5"
+
+[update]
+[update.modrinth]
+mod-id = "mzuh1rlR"
+version = "dAg7suGj"

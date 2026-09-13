@@ -1,0 +1,13 @@
+name = "Featurify - WorldGen Control"
+filename = "featurify-neoforge-2.0.13+mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BXeGCdww/versions/DTtJIXfl/featurify-neoforge-2.0.13%2Bmc1.21.1.jar"
+hash-format = "sha512"
+hash = "b9e56ebb98a780f32cd84912f06d7c52a73f05d652a21d2a05001860379e878b5f8f9288bd8ddf7d496adffd6ec4a11bc81831447a884a654821926d758c2f0d"
+
+[update]
+[update.modrinth]
+mod-id = "BXeGCdww"
+version = "DTtJIXfl"
