@@ -1,0 +1,13 @@
+name = "Spawn Spires"
+filename = "mobtowers-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OaKjpsRL/versions/qDIi63fM/mobtowers-1.0.3.jar"
+hash-format = "sha512"
+hash = "844854f09580b4fc40ebe68ac267b1294fa3430089e68d82766b8bb33456d2b2abf7cc80e6727138a8f926b8defd6a5ad1b7ec8c5811599e34a3c5ac68fe9291"
+
+[update]
+[update.modrinth]
+mod-id = "OaKjpsRL"
+version = "qDIi63fM"

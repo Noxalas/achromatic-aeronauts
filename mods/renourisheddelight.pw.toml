@@ -1,0 +1,13 @@
+name = "Renourished Delight"
+filename = "renourisheddelight-1.21.1_3.1.0-beta.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YDWv8k6N/versions/v1hCdtbT/renourisheddelight-1.21.1_3.1.0-beta.jar"
+hash-format = "sha512"
+hash = "2ef15a4a929c97ae85fb77c086e30b679960adf4d7878f899bb7d77b9dd4cdf2ce7215cd026f1ef0262124124a0c49dcf2921a4b693d5dc76ae8ab35b0977313"
+
+[update]
+[update.modrinth]
+mod-id = "YDWv8k6N"
+version = "v1hCdtbT"
