@@ -125,7 +125,7 @@ metafile = true
 
 [[files]]
 file = "mods/blueprint.pw.toml"
-hash = "932b1f0df544525e277b4f75fc47dc9c01d0481d773f026082f1cae5c4afdb69"
+hash = "16ba84aa4357c8ca27afc6f92225b94ae4a965dfef3eed9240c3062436e1fd0f"
 metafile = true
 
 [[files]]
@@ -389,6 +389,11 @@ hash = "8c76c8334ec26993b9ee881e3f03501bc6a9f5d86989ddc64ea58109a8c6a53b"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "f2849c357f9c82d017ff71c6d5e91ac8e51d6b0f2de9e7ae8d95bfb81759cd63"
+metafile = true
+
+[[files]]
 file = "mods/gallery.pw.toml"
 hash = "b98c428b3eaca3332047b113673235526418fcc1d2b55e660dc4308d73b85ae5"
 metafile = true
@@ -544,6 +549,11 @@ hash = "e42581d8eb65aa947dcbe6edb71b2082e84f31936b01f131758395d88dabc919"
 metafile = true
 
 [[files]]
+file = "mods/lowdoltenuine.pw.toml"
+hash = "2703f1902124d6a98419eb514458a201fd28420c9eced7b47d6a79d410ae685a"
+metafile = true
+
+[[files]]
 file = "mods/mannequins.pw.toml"
 hash = "0c53ddaaa2d828c91ea4f5fe920bf3935b48b4ee2507f9145225775a64a88669"
 metafile = true
@@ -554,8 +564,8 @@ hash = "25fc4d7bde5291ce22e5d586e13387e3b8158184245472161c2eaab93002e4ab"
 metafile = true
 
 [[files]]
-file = "mods/map-atlases-forge.pw.toml"
-hash = "914b1149de9f334985644ceae82107dc2eeb55d85bf6dda1f64d357feb33c83a"
+file = "mods/mapstitch.pw.toml"
+hash = "ec9e5933c8a85c992c17f3b488496f3b0c300bc4a73d2de7f4e3b2db3a6a998e"
 metafile = true
 
 [[files]]
@@ -585,7 +595,7 @@ metafile = true
 
 [[files]]
 file = "mods/modulation.pw.toml"
-hash = "f917f674af7ac7d4e185577575335910e0377791731e3f78a107b11df9c31507"
+hash = "59d19f13b7a37e299896e3a3e1f84fa8ddb35b6ce3d15d3791d228e982c9f242"
 metafile = true
 
 [[files]]
@@ -664,6 +674,11 @@ hash = "82d86cbeecbab936e795c059e08dd4f6756b4498c82f7cc0fddbfdcda05c32ae"
 metafile = true
 
 [[files]]
+file = "mods/offgrid.pw.toml"
+hash = "935dff0556747061880b61989c12370e18849f16c579ad28e925f872f0dc889f"
+metafile = true
+
+[[files]]
 file = "mods/onion-onion.pw.toml"
 hash = "d3702e5478468ab7395819e06d1118f269457a91dd26a2fffeefe0ff40068b25"
 metafile = true
@@ -736,6 +751,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "391e5d415c0754ad210b8efa54fc9ded4f99e6ab8562d6faf960f3b65d84a66a"
+metafile = true
+
+[[files]]
+file = "mods/quark.pw.toml"
+hash = "d22d14965fb93e68529f7b0861c11179b866e5c83a1cd5d394a8bf813653446b"
 metafile = true
 
 [[files]]
@@ -910,7 +930,7 @@ metafile = true
 
 [[files]]
 file = "mods/spawn-spires.pw.toml"
-hash = "1a5879539b5827484ff8f2b4b32c2cd3bdd9621ac06f4af1a45225dc335fbcfa"
+hash = "d686d87fd7d3a682bc9bbcf56b024ea2c400d35be620da9f5d577f89df6ed7d0"
 metafile = true
 
 [[files]]
@@ -989,11 +1009,6 @@ hash = "a303683e4c74640f419c31db329e9afc3ee8f388abc5c6a536dc6169c274b5c6"
 metafile = true
 
 [[files]]
-file = "mods/touch-and-motion.pw.toml"
-hash = "f4231ed5555de8783f585fc769ac988a4a936c52f6c811a65e26e61d1638d798"
-metafile = true
-
-[[files]]
 file = "mods/true-darkness-biomes.pw.toml"
 hash = "45a47531d9a4ce40092aaf22284ef4aa04e3049561c9b82bdf6fbbb790bcc0e9"
 metafile = true
@@ -1061,6 +1076,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
+metafile = true
+
+[[files]]
+file = "mods/zeta.pw.toml"
+hash = "cb474b6c0dde741836ed4f796f3b6ab0b9d3cdc0453e651122cd002d5d1f8df8"
 metafile = true
 
 [[files]]

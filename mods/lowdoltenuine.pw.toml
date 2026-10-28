@@ -1,0 +1,13 @@
+name = "Lowdoltenuine"
+filename = "lowdoltenuine-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ab23ea2d087a2e9aadb2b9330f43fca43df5ba94"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9305986
+project-id = 1762762

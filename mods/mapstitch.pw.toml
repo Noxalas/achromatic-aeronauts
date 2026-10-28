@@ -1,0 +1,13 @@
+name = "MapStitch"
+filename = "mapstitch-neoforge-1.2.1+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/etdHQJ0B/versions/YutMDuBL/mapstitch-neoforge-1.2.1%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "ba20855936faf46879e005387948309e97ee9b5c186bc1a544d4ebb871cdb097d19e9c140e7ad2ea459f7ebfb75ae65f7ee2beadc96ef654c3760913451e9634"
+
+[update]
+[update.modrinth]
+mod-id = "etdHQJ0B"
+version = "YutMDuBL"
