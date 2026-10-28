@@ -1,13 +1,13 @@
 name = "Cultural Delights"
-filename = "culturaldelights-1.21.1-0.18.0.jar"
+filename = "culturaldelights-1.21.1-0.19.7.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/YttyNOFA/versions/gPTRCWYJ/culturaldelights-1.21.1-0.18.0.jar"
+url = "https://cdn.modrinth.com/data/YttyNOFA/versions/ATlbGqEg/culturaldelights-1.21.1-0.19.7.jar"
 hash-format = "sha512"
-hash = "fcfd199d35b58b2b3fbaac67190bb83f29b47f854c470e617d459169fb759b5774958d5c3bf810a6702ea22418ba563eb2154a37f8001218b672222987a5a7e1"
+hash = "2101132f518630afceed7b6b7d73ccbe955b746bfacbfb2187b9b3cd2d46db6f59c616cf6966592b7e0cab629e5d8e85040c845b264648ede94e28fa4ddc2a3e"
 
 [update]
 [update.modrinth]
 mod-id = "YttyNOFA"
-version = "gPTRCWYJ"
+version = "ATlbGqEg"

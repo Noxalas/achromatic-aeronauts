@@ -1,13 +1,13 @@
 name = "Reliable EMI (REMI)"
-filename = "remi-neoforge-1.21.1-4.7.1.jar"
+filename = "remi-neoforge-1.21.1-4.8.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/N9WucjHL/versions/efcTy7zE/remi-neoforge-1.21.1-4.7.1.jar"
+url = "https://cdn.modrinth.com/data/N9WucjHL/versions/aMKmQMTe/remi-neoforge-1.21.1-4.8.0.jar"
 hash-format = "sha512"
-hash = "e439b2f95c627c153d7d7823ca2bb4f01090f9184f0ae4ad02092f23b315e3452e85c117fb7ea3bfc55245b49133f929b23816515b6ce39ff60a4cd9baff28cd"
+hash = "28847c6bbfe72ba1cd11fc3e055712022eda24e9f718a1c0bab610bb3e6cb73e2c68b3f54d5cd593016e05095d48fc276e3c191a2ead3b46d431e2776b79cf77"
 
 [update]
 [update.modrinth]
 mod-id = "N9WucjHL"
-version = "efcTy7zE"
+version = "aMKmQMTe"

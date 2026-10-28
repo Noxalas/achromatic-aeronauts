@@ -1,13 +1,13 @@
 name = "Cirrus"
-filename = "cirrus-neoforge-1.21.1-1.3.0.jar"
+filename = "cirrus-neoforge-1.21.1-1.4.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/SJDzFJH7/versions/DksE4UDm/cirrus-neoforge-1.21.1-1.3.0.jar"
+url = "https://cdn.modrinth.com/data/SJDzFJH7/versions/gQSzD7br/cirrus-neoforge-1.21.1-1.4.1.jar"
 hash-format = "sha512"
-hash = "908e518473b873575113fe176799809dabd5ac40b652e8affeaadd92ffd37db29503c62181de9f0880bde2e93b14cd926e66060fe63174a43219f03383bcad8c"
+hash = "85b8796a77e624ac443324df876605d60c577b5c255736c030eeac8a885248b4e026c69b5779212332a2c6373f4a998d8b5c760be98ceec91051b3df2a095360"
 
 [update]
 [update.modrinth]
 mod-id = "SJDzFJH7"
-version = "DksE4UDm"
+version = "gQSzD7br"
