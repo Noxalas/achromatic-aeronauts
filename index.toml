@@ -5,6 +5,50 @@ file = "Dockerfile"
 hash = "dbbf80d800b0c163dce6952a523b17b1f9104b39ad89695de4cc17cbe1cb501f"
 
 [[files]]
+file = "kubejs/README.txt"
+hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/example_block.png"
+hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/example_item.png"
+hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
+
+[[files]]
+file = "kubejs/client_scripts/main.js"
+hash = "3df46f0add819bf2602642215b5c62f0581ffdaaf97e77c80a8c4d966e05adcf"
+
+[[files]]
+file = "kubejs/config/client.json"
+hash = "410830423133f5e6efc35cc8a28fd713063f8088bd00d72569fbce46956867e3"
+
+[[files]]
+file = "kubejs/config/common.json"
+hash = "e00a67922942660d77c213379b5128a46c5abc894178b0be04006d325ff5f6b3"
+
+[[files]]
+file = "kubejs/config/web_server.json"
+hash = "86cfdf39c519d544c091b348af08d1ac41379576c72b371f2225f2ac23c81c79"
+
+[[files]]
+file = "kubejs/server_scripts/general/bone_drops.js"
+hash = "4f33f9c7ddef4fad2d9ae223cc03c18129b08cceb0f0c9c33127ab1945d812a6"
+
+[[files]]
+file = "kubejs/server_scripts/main.js"
+hash = "dae099ae3be7f033c0c190ee8c3b023b42f6b235d9d0591be5926e8435dbd67f"
+
+[[files]]
+file = "kubejs/startup_scripts/main.js"
+hash = "5c4659e7bb368960801ccfce24ac3493fa14aae88a7e17b2a9cdfe1931985ffe"
+
+[[files]]
+file = "kubejs/startup_scripts/regsistry.js"
+hash = "c58b88ae00832cb3f4e7f3b413dc918524e6e68f8c1cda73f617711b59299fba"
+
+[[files]]
 file = "mods/abundant-atmosphere.pw.toml"
 hash = "9e931b19c0dd7a1043c14b1ffc1291cb741b8cdfb7db685d221c3c7b36efd6b3"
 metafile = true
@@ -12,6 +56,10 @@ metafile = true
 [[files]]
 file = "mods/achromatic_aeronauts-0.0.1.jar"
 hash = "4bff3a47d0711525c7025efa25ceb512448fc0b26ef140dae96bf477b698d04d"
+
+[[files]]
+file = "mods/achromatic_aeronauts-0.0.2.jar"
+hash = "ad84dfab35277769f10de9990593a89487b5facf923c310386f6649fc290410e"
 
 [[files]]
 file = "mods/adapted-mobs.pw.toml"
@@ -125,12 +173,17 @@ metafile = true
 
 [[files]]
 file = "mods/blueprint.pw.toml"
-hash = "16ba84aa4357c8ca27afc6f92225b94ae4a965dfef3eed9240c3062436e1fd0f"
+hash = "932b1f0df544525e277b4f75fc47dc9c01d0481d773f026082f1cae5c4afdb69"
 metafile = true
 
 [[files]]
 file = "mods/boatload.pw.toml"
 hash = "3e4ef8a1b4a51f845e60751b2431cc599aa52b6a43a79dacaa5fc7aadc15fe1c"
+metafile = true
+
+[[files]]
+file = "mods/bountiful-fares.pw.toml"
+hash = "0d5d97c1094ee34741f345d597907af2f85b1a38bdb91836c1ea4d1f8a6bc303"
 metafile = true
 
 [[files]]
@@ -226,11 +279,6 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
-metafile = true
-
-[[files]]
-file = "mods/cooks-collection.pw.toml"
-hash = "a5c4204fd3868afdf361a32927caa187bd556521ad862bf03cfd42e7cffd78b5"
 metafile = true
 
 [[files]]
@@ -429,6 +477,11 @@ hash = "4480ede1f6ed684cf8bdf4f5b410bf767559f92a0948c30d7074237cfa7af9b9"
 metafile = true
 
 [[files]]
+file = "mods/hedges-bestiary.pw.toml"
+hash = "519a50fe73b647c1291feea4d6f2ce455c41184e3f033bab68e0f33cd0c732ee"
+metafile = true
+
+[[files]]
 file = "mods/held-item-tooltips.pw.toml"
 hash = "d01e1e18bc56a20fd1b37a5716e3fa9cf78704176389865dcbac7c13d3b34770"
 metafile = true
@@ -495,7 +548,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-descriptions.pw.toml"
-hash = "b902e2a8d9a070dec6136632ea901f2bcb7185c41554d08128f377a1825ed495"
+hash = "449b6cd2fb278ccd881e5781c782bb01aeaf11025e79030943a5554a4e3eba6c"
 metafile = true
 
 [[files]]
@@ -506,6 +559,11 @@ metafile = true
 [[files]]
 file = "mods/jumpy-boats.pw.toml"
 hash = "81828c5eed16d801147c4d47146f5c56d2ccacec0ce00760cbeb8ff03c27b032"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "712a69b3569a8055979de6eea262068535fe182dffb3833e53e5833e9cbf9766"
 metafile = true
 
 [[files]]
@@ -641,6 +699,11 @@ metafile = true
 [[files]]
 file = "mods/new_world.pw.toml"
 hash = "b337c8dce9ec13f1b5f7126df0ca884062b906c767d2f7fefab80d5cda1ae799"
+metafile = true
+
+[[files]]
+file = "mods/nexuslib.pw.toml"
+hash = "326d6aa0912804399801330217cb1daaf568a274af6ff53e6a17e5de0f6a5393"
 metafile = true
 
 [[files]]
@@ -1091,3 +1154,7 @@ metafile = true
 file = "mods/ziplines-rezipped.pw.toml"
 hash = "6445b98e4e5bcffcef836353b164ed6c34062daafa6d04c59965067000851d1b"
 metafile = true
+
+[[files]]
+file = "tasks/20261028-215748.md"
+hash = "522c33e6de999d0fbe98799025ee7c5e812cc597f0b0579306c84cdfc23e1d5a"
