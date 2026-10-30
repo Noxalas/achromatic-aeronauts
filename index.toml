@@ -17,6 +17,10 @@ file = "kubejs/assets/kubejs/textures/item/example_item.png"
 hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
 
 [[files]]
+file = "kubejs/assets/voicechat/textures/icons/disconnected.png"
+hash = "38be5a9fb712cb81d81245d38f669df298b6e8490018f0617986489249ce0494"
+
+[[files]]
 file = "kubejs/client_scripts/main.js"
 hash = "3df46f0add819bf2602642215b5c62f0581ffdaaf97e77c80a8c4d966e05adcf"
 
@@ -33,6 +37,26 @@ file = "kubejs/config/web_server.json"
 hash = "86cfdf39c519d544c091b348af08d1ac41379576c72b371f2225f2ac23c81c79"
 
 [[files]]
+file = "kubejs/server_scripts/food/food.js"
+hash = "8dfdd283851f14583aff854d7333199660d8496e6d0d3bae2fd575d9d7433787"
+
+[[files]]
+file = "kubejs/server_scripts/gameplay/aero.js"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/server_scripts/gameplay/block_behaviour.js"
+hash = "85ae442fc9786f175b4e54779adda35337cbd1308621b338a79d819450fb1ad0"
+
+[[files]]
+file = "kubejs/server_scripts/gameplay/item_behaviour.js"
+hash = "bc1468209c344ca0a1867b76be4171da0b40363562c6379a3e1ff0cffc614f9a"
+
+[[files]]
+file = "kubejs/server_scripts/gameplay/mining.js"
+hash = "dc80b1c711549c2b8641d0ded9d4dfa6c1c95d435f64d31a9f6a239ea3ed3684"
+
+[[files]]
 file = "kubejs/server_scripts/general/bone_drops.js"
 hash = "4f33f9c7ddef4fad2d9ae223cc03c18129b08cceb0f0c9c33127ab1945d812a6"
 
@@ -41,21 +65,41 @@ file = "kubejs/server_scripts/main.js"
 hash = "dae099ae3be7f033c0c190ee8c3b023b42f6b235d9d0591be5926e8435dbd67f"
 
 [[files]]
-file = "kubejs/startup_scripts/main.js"
-hash = "5c4659e7bb368960801ccfce24ac3493fa14aae88a7e17b2a9cdfe1931985ffe"
+file = "kubejs/server_scripts/misc.js"
+hash = "f5861ed660fede2717578f564cda5e2fa2d48b7954aaed7af2e8e4900bd3bb22"
 
 [[files]]
-file = "kubejs/startup_scripts/regsistry.js"
+file = "kubejs/server_scripts/progression/common_metals.js"
+hash = "bc146f9d99ffc7cf92a466d9873bb435bf1956745c017410e4fe8571b2981e17"
+
+[[files]]
+file = "kubejs/server_scripts/progression/tool_loot_nerf.js"
+hash = "d8d20b120d3530e19ceaeb94eb0980b344d5d863040738e9c44a9addddfcb19b"
+
+[[files]]
+file = "kubejs/server_scripts/remove.js"
+hash = "c9466550cc5f35c6892cbf3eb1c8ef906b8df4ee8368e92ea9913d807435a2ff"
+
+[[files]]
+file = "kubejs/server_scripts/tech/create.js"
+hash = "7b5847dd6caf42bd828ff35dcb1e47c820a1859870cf7caef2b3725da58eefdc"
+
+[[files]]
+file = "kubejs/startup_scripts/_globals.js"
+hash = "ace8a97540f0f139edf8a1dfbf24b9f9b1c5ac195c0a8b17aaeb3e36476a2a21"
+
+[[files]]
+file = "kubejs/startup_scripts/registry.js"
 hash = "c58b88ae00832cb3f4e7f3b413dc918524e6e68f8c1cda73f617711b59299fba"
+
+[[files]]
+file = "kubejs/startup_scripts/tier_rebalance.js"
+hash = "b2d7afdb89537b4175189c34b477d2af7a9029b321d1ebca6b7357199787300c"
 
 [[files]]
 file = "mods/abundant-atmosphere.pw.toml"
 hash = "9e931b19c0dd7a1043c14b1ffc1291cb741b8cdfb7db685d221c3c7b36efd6b3"
 metafile = true
-
-[[files]]
-file = "mods/achromatic_aeronauts-0.0.1.jar"
-hash = "4bff3a47d0711525c7025efa25ceb512448fc0b26ef140dae96bf477b698d04d"
 
 [[files]]
 file = "mods/achromatic_aeronauts-0.0.2.jar"
@@ -117,11 +161,6 @@ hash = "603cdc47142b5aa5729cbbf265a473574c9e2b55561de4318e9842d3d4b3b995"
 metafile = true
 
 [[files]]
-file = "mods/barehanded.pw.toml"
-hash = "a1d72d6f88c773c31e30080ced177ce5ccd89a57f3a8e34185b6dc38d902a03a"
-metafile = true
-
-[[files]]
 file = "mods/bathymetry.pw.toml"
 hash = "bae8c7a2dd7cce43aaac1f5ae3a57bc93d1a323752be5d5e92bceb3a133cd23e"
 metafile = true
@@ -179,11 +218,6 @@ metafile = true
 [[files]]
 file = "mods/boatload.pw.toml"
 hash = "3e4ef8a1b4a51f845e60751b2431cc599aa52b6a43a79dacaa5fc7aadc15fe1c"
-metafile = true
-
-[[files]]
-file = "mods/bountiful-fares.pw.toml"
-hash = "0d5d97c1094ee34741f345d597907af2f85b1a38bdb91836c1ea4d1f8a6bc303"
 metafile = true
 
 [[files]]
@@ -387,11 +421,6 @@ hash = "37ae0fc372cc387710fb7cb525f79a405e88f9e88786f83c1e0834e127997d35"
 metafile = true
 
 [[files]]
-file = "mods/envelope.pw.toml"
-hash = "1c0f0ddf6df8440ccfbb0fd257a2ab836a88a95ff87e0f1fa37fc053ff2631d9"
-metafile = true
-
-[[files]]
 file = "mods/etched.pw.toml"
 hash = "e542594c75eddafc1b72baebc82aa65ce2d8d791bc0ace17c731760bf30360b4"
 metafile = true
@@ -522,11 +551,6 @@ hash = "1d29132b5ab008c93c8ede5a5b5fb84a5eace32c8f356ed16a66a23cb00d7f28"
 metafile = true
 
 [[files]]
-file = "mods/incremental-mining.pw.toml"
-hash = "b43a35ee478e221af6adcbf40ce1c7c4004cb7da6f9b55d7dae9142055046b01"
-metafile = true
-
-[[files]]
 file = "mods/incubation.pw.toml"
 hash = "570ab6eb7be33c305979aa1982e9410e9060d804396decf3859aade3be2ccc3a"
 metafile = true
@@ -622,11 +646,6 @@ hash = "894d037e5d19b26ae26993bc150a5f016dfd1af885a0dfa21a87d5e41270da2c"
 metafile = true
 
 [[files]]
-file = "mods/mapstitch.pw.toml"
-hash = "ec9e5933c8a85c992c17f3b488496f3b0c300bc4a73d2de7f4e3b2db3a6a998e"
-metafile = true
-
-[[files]]
 file = "mods/mcmouser.pw.toml"
 hash = "a29113f8231c78e405ccd23f7a86224f03647f03a372cf5469c83d88ab9da202"
 metafile = true
@@ -685,6 +704,10 @@ metafile = true
 file = "mods/multi-mine.pw.toml"
 hash = "02896d858389458e8477805123288d04e95f0000076a39067ac86778947cf688"
 metafile = true
+
+[[files]]
+file = "mods/nametaginteraction-1.0.0.jar"
+hash = "5abd2eb198994a1f92a17ee5b7a79ed0cc0f347d96731d8984d40539f32546df"
 
 [[files]]
 file = "mods/natural-temperature.pw.toml"
@@ -857,11 +880,6 @@ hash = "23389e0c811d104e1b1e6b90d10b335c6dcd19cfaafe9bf068565091209a5776"
 metafile = true
 
 [[files]]
-file = "mods/renourisheddelight.pw.toml"
-hash = "d1294c20b13ab75daeadbbfb93903e301b058682297bd1661036af138a07924b"
-metafile = true
-
-[[files]]
 file = "mods/respawning-animals.pw.toml"
 hash = "3e88d197a1ef48696cee4a7691155b50c27b8dd3bf14a1872780918e2362a4be"
 metafile = true
@@ -932,6 +950,11 @@ hash = "f67f27ecc171b7934e114a09ac00f066cb2343d2350f2f1b9a96bd33c022fb94"
 metafile = true
 
 [[files]]
+file = "mods/simple-nicknames.pw.toml"
+hash = "2cd5aca22aacc8c04021cc2a44cd978eacefceb7d6b42ecde17276d30c4c51bf"
+metafile = true
+
+[[files]]
 file = "mods/simple-radio.pw.toml"
 hash = "70f1224ac5fa901ea0d6466d096e80b310c3d1915bb4983e37189e89836de321"
 metafile = true
@@ -969,6 +992,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "2a001cdb3d5ac4970d422914083c27380eba8ebd40dfd435754fe6566ba78beb"
+metafile = true
+
+[[files]]
+file = "mods/sooty-chimneys.pw.toml"
+hash = "924b292f54a9a8c7196773b03e1f503a0eb70af4c0aa06a02bfb6c8f4617c660"
 metafile = true
 
 [[files]]
@@ -1071,6 +1099,11 @@ hash = "a303683e4c74640f419c31db329e9afc3ee8f388abc5c6a536dc6169c274b5c6"
 metafile = true
 
 [[files]]
+file = "mods/tree-physics.pw.toml"
+hash = "0c084b716102bb33d1b14ebd707a732cd807ddebc135989ee12664b58e3ad7f8"
+metafile = true
+
+[[files]]
 file = "mods/true-darkness-biomes.pw.toml"
 hash = "45a47531d9a4ce40092aaf22284ef4aa04e3049561c9b82bdf6fbbb790bcc0e9"
 metafile = true
@@ -1157,4 +1190,8 @@ metafile = true
 
 [[files]]
 file = "tasks/20261028-215748.md"
-hash = "522c33e6de999d0fbe98799025ee7c5e812cc597f0b0579306c84cdfc23e1d5a"
+hash = "f23c688c5ebe268cc73a0164b42217e99ecde5efe119c55d3b87cf3716a4a647"
+
+[[files]]
+file = "tasks/20261029-033410.md"
+hash = "e5097f26ea46f8f5cbfa9c1684f0c6aa73b6e337aa1c76bbe71cd0615a6d1658"
