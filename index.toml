@@ -1197,8 +1197,73 @@ hash = "6445b98e4e5bcffcef836353b164ed6c34062daafa6d04c59965067000851d1b"
 metafile = true
 
 [[files]]
+file = "resourcepacks/authentic-shadows.pw.toml"
+hash = "884543d0c23c1a0aefaa1667277be65bf0cf33f98c61acc6ced5a31736211084"
+metafile = true
+
+[[files]]
+file = "resourcepacks/detail-brush.pw.toml"
+hash = "1bde274694717f6615d34cd12dbb764006d8a914b7185ca4c683f8d73e2875d5"
+metafile = true
+
+[[files]]
+file = "resourcepacks/farcrs-better-dirt-modded-compat.pw.toml"
+hash = "5853156cad64f8d37bffec6c82b6762c0c45f13c020280c9c550b8f5ed643153"
+metafile = true
+
+[[files]]
+file = "resourcepacks/farcrs-better-dirt.pw.toml"
+hash = "6dfe87bc84547449b3c48e8dd323ce06772fe5debc37bbef099b14acc3b7a212"
+metafile = true
+
+[[files]]
+file = "resourcepacks/farcrs-re-crafted.pw.toml"
+hash = "e66877b80c6fc834f4bce81a28bf90c0a4d6e7a255aef33b7107f32146e2e1e6"
+metafile = true
+
+[[files]]
+file = "resourcepacks/farcrs-re-create.pw.toml"
+hash = "bde55df212f838f3ddc5bcf3eca24008666056cf08a15afa62527a31c9fe1a70"
+metafile = true
+
+[[files]]
+file = "resourcepacks/gallery-portfolio-compat.pw.toml"
+hash = "1610698b9be143d9146052806127555dd08c8af6c16018d2a2824c7267dfe77c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/neutral-sea-grass-and-kelp.pw.toml"
+hash = "9e7f046dbd845e2b5a6d7329cb873fbadde92c9747648760bf680f1b555b1efe"
+metafile = true
+
+[[files]]
 file = "resourcepacks/probleyes-produce.pw.toml"
 hash = "7a3eedb81e1239b8f7c5706e577735a80e4505573251d23a5568f72ac99d4d16"
+metafile = true
+
+[[files]]
+file = "resourcepacks/serified-font.pw.toml"
+hash = "41f16182155a11f5291f34a842afce576f0057e994655c510af2bbd24625a2df"
+metafile = true
+
+[[files]]
+file = "resourcepacks/soft-weather.pw.toml"
+hash = "7dcf9553a59aa568bae4dc3fee273250360c582214eaf6709af838a38567f489"
+metafile = true
+
+[[files]]
+file = "resourcepacks/sunbathing-godrays.pw.toml"
+hash = "573cae990122b734bc77ff28afd98058910a642df4fe8dd3aa0f42f28fcf696e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/supplementaries-ropes-re-done.pw.toml"
+hash = "018654b1ea3c90a6ab26aa9cb423326ba35fa56b1d8e0490281d5d3c188b5a7b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/supplementaries-touch-ups.pw.toml"
+hash = "c028ed0a5225a17329df868f657238083c8611212d4a310f4a69d897358a351f"
 metafile = true
 
 [[files]]

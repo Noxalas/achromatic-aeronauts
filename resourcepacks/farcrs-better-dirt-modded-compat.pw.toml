@@ -1,0 +1,13 @@
+name = "Farcr's Better Dirt - Modded Compat"
+filename = "Farcrs Better Dirt - Modded Compat.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JdCxKRxl/versions/NHp5U1ki/Farcrs%20Better%20Dirt%20-%20Modded%20Compat.zip"
+hash-format = "sha512"
+hash = "b66ab00593591bff9d2ae56da91156b9a53182cb773bd7371067dff95e5a1fdf192c378549b0e6b85c7f13fc86d565c9069a7ac8148a4a89d76b910963b90594"
+
+[update]
+[update.modrinth]
+mod-id = "JdCxKRxl"
+version = "NHp5U1ki"
