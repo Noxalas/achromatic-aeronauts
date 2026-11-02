@@ -81,9 +81,6 @@ global.ingredientOf = (id) => {
   return id.charAt(0) === "#" ? { tag: id.substring(1) } : { item: id };
 };
 
-// global.salvage = (event, input, tool, results) => {
-//     global.cutting(event, input, tool, results);    
-// }
 
 global.pressing = (event, input, result) => {
   event.custom({
@@ -172,3 +169,32 @@ global.kilnBaking = (event, input, result, count) => {
 //         type: "culturaldelights:shapeless_baking"
 //     });
 // };
+
+global.withoutCount = (output) => output.replace(/^\d+x /, "");
+
+global.removeIds = (event, ids) => {
+  ids.forEach((id) => event.remove({ id: id }));
+};
+
+global.reshaped = (event, output, pattern, keys, removed) => {
+  event.remove({ id: removed || global.withoutCount(output) });
+  event.shaped(output, pattern, keys);
+};
+
+global.reshapeless = (event, output, ingredients, removed) => {
+  event.remove({ id: removed || global.withoutCount(output) });
+  event.shapeless(output, ingredients);
+};
+
+global.swapInput = (event, ids, from, to) => {
+  [].concat(ids).forEach((id) => event.replaceInput({ id: id }, from, to));
+};
+
+global.compress = (event, item, block) => {
+  event.shapeless(block, [`9x ${item}`]);
+  event.shapeless(`9x ${item}`, [block]);
+};
+
+global.chiseled = (event, output, input) => {
+  event.shaped(`4x ${output}`, [" B ", "B B", " B "], { B: input });
+};

@@ -38,7 +38,7 @@ hash = "86cfdf39c519d544c091b348af08d1ac41379576c72b371f2225f2ac23c81c79"
 
 [[files]]
 file = "kubejs/server_scripts/food/food.js"
-hash = "8dfdd283851f14583aff854d7333199660d8496e6d0d3bae2fd575d9d7433787"
+hash = "a348b8f4c4a751f9ce7a311b1007a0cfc52d9d77d5bbf4369092bab697e17768"
 
 [[files]]
 file = "kubejs/server_scripts/gameplay/aero.js"
@@ -61,6 +61,10 @@ file = "kubejs/server_scripts/general/bone_drops.js"
 hash = "4f33f9c7ddef4fad2d9ae223cc03c18129b08cceb0f0c9c33127ab1945d812a6"
 
 [[files]]
+file = "kubejs/server_scripts/magic/ars_nouveau.js"
+hash = "9d3f91f7e3aaa7e16a9d7ca383e0b7ff7f0c0d93eafaf5e3c0c1ff915a169dcc"
+
+[[files]]
 file = "kubejs/server_scripts/main.js"
 hash = "dae099ae3be7f033c0c190ee8c3b023b42f6b235d9d0591be5926e8435dbd67f"
 
@@ -70,7 +74,7 @@ hash = "f5861ed660fede2717578f564cda5e2fa2d48b7954aaed7af2e8e4900bd3bb22"
 
 [[files]]
 file = "kubejs/server_scripts/progression/common_metals.js"
-hash = "bc146f9d99ffc7cf92a466d9873bb435bf1956745c017410e4fe8571b2981e17"
+hash = "d464695b90a7649718b1823e3010e1adc11de9ab4f67b9d25b667090cf08941d"
 
 [[files]]
 file = "kubejs/server_scripts/progression/tool_loot_nerf.js"
@@ -78,15 +82,15 @@ hash = "d8d20b120d3530e19ceaeb94eb0980b344d5d863040738e9c44a9addddfcb19b"
 
 [[files]]
 file = "kubejs/server_scripts/remove.js"
-hash = "c9466550cc5f35c6892cbf3eb1c8ef906b8df4ee8368e92ea9913d807435a2ff"
+hash = "7d47482cb34874b33cf9b5742219e6d6231ad77c4195978a3d75f8aa1a622fe8"
 
 [[files]]
 file = "kubejs/server_scripts/tech/create.js"
-hash = "7b5847dd6caf42bd828ff35dcb1e47c820a1859870cf7caef2b3725da58eefdc"
+hash = "24745f6337e6c168eadcba5e54082d71200876f1d3700c24b99f04a138ac9a21"
 
 [[files]]
 file = "kubejs/startup_scripts/_globals.js"
-hash = "ace8a97540f0f139edf8a1dfbf24b9f9b1c5ac195c0a8b17aaeb3e36476a2a21"
+hash = "42e3b613c40721525bd95eb43ee9040cb772ef5f9552edf1caa53a735a918aa8"
 
 [[files]]
 file = "kubejs/startup_scripts/registry.js"
@@ -176,9 +180,8 @@ hash = "03084ff4f74cedc1b8ac6c85a98842f75956fb4fa811d285d8ca7caa8d54da5d"
 metafile = true
 
 [[files]]
-file = "mods/better-safe-bed.pw.toml"
+file = "mods/better-safe-bed.pw.toml.disabled"
 hash = "92ce8c9889afb7ba45b76ebf61845888578773523f55f2f64befc37debb93051"
-metafile = true
 
 [[files]]
 file = "mods/betterdays.pw.toml"
@@ -223,6 +226,11 @@ metafile = true
 [[files]]
 file = "mods/break-my-fall.pw.toml"
 hash = "6c0bc5a9d279fdcb69876c20e416004b785ebb48aeef3c24ecd812523d513990"
+metafile = true
+
+[[files]]
+file = "mods/brewin-and-chewin.pw.toml"
+hash = "22d9510588b081cf9905f6549d24bc11012aa8d9c7d38a8619ab9db5ccb7b9a8"
 metafile = true
 
 [[files]]
@@ -501,8 +509,8 @@ hash = "1e5b320ad839b14df9754644d36a10bc745bf165da797b9b195136ee6b1f06a7"
 metafile = true
 
 [[files]]
-file = "mods/heart-crystals.pw.toml"
-hash = "4480ede1f6ed684cf8bdf4f5b410bf767559f92a0948c30d7074237cfa7af9b9"
+file = "mods/heart_crystals.pw.toml"
+hash = "adb0863e02fb267123ee9b63825d7dc010324ab8685d831d3c6a3fe540852514"
 metafile = true
 
 [[files]]
@@ -648,6 +656,11 @@ metafile = true
 [[files]]
 file = "mods/mcmouser.pw.toml"
 hash = "a29113f8231c78e405ccd23f7a86224f03647f03a372cf5469c83d88ab9da202"
+metafile = true
+
+[[files]]
+file = "mods/melancholic_hunger.pw.toml"
+hash = "710b043594853d4038c702426bd3d4716940755a25e27996d151c472b6246c4d"
 metafile = true
 
 [[files]]
@@ -945,11 +958,6 @@ hash = "7e8e834427a16c7d606e9a6571b1fce6105ccfe364c2cf11050b69b409c7556e"
 metafile = true
 
 [[files]]
-file = "mods/showcase-item.pw.toml"
-hash = "f67f27ecc171b7934e114a09ac00f066cb2343d2350f2f1b9a96bd33c022fb94"
-metafile = true
-
-[[files]]
 file = "mods/simple-nicknames.pw.toml"
 hash = "2cd5aca22aacc8c04021cc2a44cd978eacefceb7d6b42ecde17276d30c4c51bf"
 metafile = true
@@ -1186,6 +1194,11 @@ metafile = true
 [[files]]
 file = "mods/ziplines-rezipped.pw.toml"
 hash = "6445b98e4e5bcffcef836353b164ed6c34062daafa6d04c59965067000851d1b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/probleyes-produce.pw.toml"
+hash = "7a3eedb81e1239b8f7c5706e577735a80e4505573251d23a5568f72ac99d4d16"
 metafile = true
 
 [[files]]

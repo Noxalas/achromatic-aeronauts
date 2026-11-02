@@ -20,13 +20,13 @@ ServerEvents.recipes((event) => {
         "#c:drinks/milk",
     ], { id: "incubation:scrambled_eggs", count: 1 }, 100, 0.3, "bowl");
 
-    ["egg", "#achro:water_crafting"].forEach((binder) => {
-        event.shapeless("8x brewinandchewin:corn_dough", [
-            "4x brewinandchewin:cornmeal",
-            `1x ${binder}`,
-            "4x brewinandchewin:cornmeal",
-        ]);
-    });
+    // ["egg", "#achro:water_crafting"].forEach((binder) => {
+    //     event.shapeless("8x brewinandchewin:corn_dough", [
+    //         "4x brewinandchewin:cornmeal",
+    //         `1x ${binder}`,
+    //         "4x brewinandchewin:cornmeal",
+    //     ]);
+    // });
 
     global.cooking(event, [
         "abundant_atmosphere:roasted_gourdnut",

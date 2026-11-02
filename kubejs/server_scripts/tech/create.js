@@ -9,8 +9,9 @@ ServerEvents.recipes((event) => {
         "create:haunting",
         "create:potion_mixing",
         "create:milling",
-        "create:mixing"
+        "create:mixing",
+        "powergrid:magnetizing"
     ].forEach((type) => event.remove({ type: type }));
 
-    
+
 });

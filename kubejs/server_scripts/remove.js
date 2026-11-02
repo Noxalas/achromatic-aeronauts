@@ -9,5 +9,8 @@ ServerEvents.recipes((event) => {
         "shield_decoration",
         "horseman:copper_horn",
         "supplementaries:suspicious_gravel",
+        // "ars_nouveau:enchanting_apparatus",
+        // "ars_nouveau:armor_upgrade",
+        // "ars_nouveau:imbuement",
     ]);
 });
