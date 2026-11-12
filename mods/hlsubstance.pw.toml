@@ -1,0 +1,13 @@
+name = "HLSubstance"
+filename = "HLSubstance-1.21.1-NeoForge-1.0.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eGf5OkUe/versions/gY5xYC4L/HLSubstance-1.21.1-NeoForge-1.0.5.jar"
+hash-format = "sha512"
+hash = "6dfb7bdcc1174ebd7f60563a497d512022a580c781290f9f4b956b7ca1b083979eb971b2c2b2a7c53f4f98609b9c4e270bedecedf24c71aa522514ca9806888b"
+
+[update]
+[update.modrinth]
+mod-id = "eGf5OkUe"
+version = "gY5xYC4L"

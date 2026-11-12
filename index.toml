@@ -534,6 +534,11 @@ hash = "554fc5e8aba13353c9b9d4ff066ec6aaf1bd559550633ef4ace120541cada94b"
 metafile = true
 
 [[files]]
+file = "mods/hlsubstance.pw.toml"
+hash = "b95fda4238febd5f79facaf1d40252a0ab0eb966c67f7dbcdfda19c504f77b95"
+metafile = true
+
+[[files]]
 file = "mods/horseman.pw.toml"
 hash = "018e97e8393dd17294a49693063a8dd4f42b2930708c4cc745ee9751f2f279c3"
 metafile = true
