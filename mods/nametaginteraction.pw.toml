@@ -1,0 +1,6 @@
+name = "Name Tag Interaction"
+filename = "nametaginteraction-1.0.0.jar"
+side = "client"
+
+[download]
+hash = "1f842f3695f131fcc76fe43dfef9ae30c9443b6a"

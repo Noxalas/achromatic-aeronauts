@@ -732,6 +732,11 @@ file = "mods/nametaginteraction-1.0.0.jar"
 hash = "5abd2eb198994a1f92a17ee5b7a79ed0cc0f347d96731d8984d40539f32546df"
 
 [[files]]
+file = "mods/nametaginteraction.pw.toml"
+hash = "179886d8d26714d1dfd3ff666973de55e87ca6b422aeadec00e6ad8cbf246ee8"
+metafile = true
+
+[[files]]
 file = "mods/natural-temperature.pw.toml"
 hash = "7c7df8ffd47a85990b28e129259b0566c412fb74e5356525fc2eedc5920b064e"
 metafile = true
