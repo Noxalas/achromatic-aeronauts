@@ -733,7 +733,7 @@ metafile = true
 
 [[files]]
 file = "mods/nametaginteraction.pw.toml"
-hash = "f456464511aea62d28c640fc531d130b1bd9d081873a5cede367712940ba4cab"
+hash = "9c9245f20035fabf6ff935ed7c588594dea09e03b75b850ee28e0bdb97029878"
 metafile = true
 
 [[files]]
