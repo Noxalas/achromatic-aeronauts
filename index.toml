@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".nojekyll"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "Dockerfile"
 hash = "dbbf80d800b0c163dce6952a523b17b1f9104b39ad89695de4cc17cbe1cb501f"
 
