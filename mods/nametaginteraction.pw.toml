@@ -1,0 +1,8 @@
+name = "nametaginteraction"
+filename = "nametaginteraction-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://noxalas.github.io/achromatic-aeronauts/custom-jars/nametaginteraction-1.0.0.jar"
+hash-format = "sha256"
+hash = "5abd2eb198994a1f92a17ee5b7a79ed0cc0f347d96731d8984d40539f32546df"

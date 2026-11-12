@@ -9,6 +9,10 @@ file = "Dockerfile"
 hash = "dbbf80d800b0c163dce6952a523b17b1f9104b39ad89695de4cc17cbe1cb501f"
 
 [[files]]
+file = "custom-jars/nametaginteraction-1.0.0.jar"
+hash = "5abd2eb198994a1f92a17ee5b7a79ed0cc0f347d96731d8984d40539f32546df"
+
+[[files]]
 file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
@@ -728,12 +732,8 @@ hash = "02896d858389458e8477805123288d04e95f0000076a39067ac86778947cf688"
 metafile = true
 
 [[files]]
-file = "mods/nametaginteraction-1.0.0.jar"
-hash = "5abd2eb198994a1f92a17ee5b7a79ed0cc0f347d96731d8984d40539f32546df"
-
-[[files]]
 file = "mods/nametaginteraction.pw.toml"
-hash = "179886d8d26714d1dfd3ff666973de55e87ca6b422aeadec00e6ad8cbf246ee8"
+hash = "c076f2af81bcadee3741993368aefb9d92e9a33f602028085cac3826688c00e1"
 metafile = true
 
 [[files]]
