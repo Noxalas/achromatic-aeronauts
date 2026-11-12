@@ -1,6 +1,6 @@
 name = "nametaginteraction"
 filename = "nametaginteraction-1.0.0.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://noxalas.github.io/achromatic-aeronauts/custom-jars/nametaginteraction-1.0.0.jar"
