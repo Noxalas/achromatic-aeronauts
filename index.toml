@@ -10,7 +10,7 @@ hash = "dbbf80d800b0c163dce6952a523b17b1f9104b39ad89695de4cc17cbe1cb501f"
 
 [[files]]
 file = "custom-jars/nametaginteraction-1.0.0.jar"
-hash = "5abd2eb198994a1f92a17ee5b7a79ed0cc0f347d96731d8984d40539f32546df"
+hash = "7adf22c1d2e8e552923773c6d092d8c5f7d5f0a3ac904201b8589647773ef26f"
 
 [[files]]
 file = "kubejs/README.txt"
