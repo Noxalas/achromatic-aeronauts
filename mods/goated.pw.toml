@@ -1,13 +1,13 @@
 name = "You've Goat to be Kidding Me"
-filename = "goated-1.21-1.4.3-neoforge.jar"
+filename = "goated-1.21-1.4.4-neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/L7dBwZPX/versions/5MtjRbJ2/goated-1.21-1.4.3-neoforge.jar"
+url = "https://cdn.modrinth.com/data/L7dBwZPX/versions/tFf2Cymf/goated-1.21-1.4.4-neoforge.jar"
 hash-format = "sha512"
-hash = "ba705c849ee41379330d440342b4a0a5c83dcefff4266f0d9a654436848bbeccdf5251fe30c3cb2bd221294b4c945acd8f05241a30c020b7d7c894849863092a"
+hash = "ce6f50fad5ca648f86bba9a279e20638323915b36f2171a40cf33d11cc731747a5b56f480437bdca6e487e9cb50a9ce285218f17cecdfbce6d5977fd2cbd5389"
 
 [update]
 [update.modrinth]
 mod-id = "L7dBwZPX"
-version = "5MtjRbJ2"
+version = "tFf2Cymf"

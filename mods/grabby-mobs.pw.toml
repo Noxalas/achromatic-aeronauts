@@ -1,13 +1,13 @@
 name = "Grabby Mobs"
-filename = "grabbymobs-1.21.1-1.8.jar"
+filename = "grabbymobs-1.21.1-2.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/O6Sh7btX/versions/YqCEZ0Kr/grabbymobs-1.21.1-1.8.jar"
+url = "https://cdn.modrinth.com/data/O6Sh7btX/versions/O5EBNQSg/grabbymobs-1.21.1-2.0.jar"
 hash-format = "sha512"
-hash = "091faa53fccc155cd9ee32c2b83664fcd762576d9aa908e1d9d02c934cff48e2061a68d6c88cb7ef12e3fa09d42b5d10e0cf4026c9157af95f9142e7cdce1d50"
+hash = "b94733aaf8ea0f1e2fb30cd78b572118a992a618fcc0c6ae0075e58fa668cd61215db0cef8a1783e3d71836cc444e0492e316fc5e1c0413ff2ae206e759e5232"
 
 [update]
 [update.modrinth]
 mod-id = "O6Sh7btX"
-version = "YqCEZ0Kr"
+version = "O5EBNQSg"

@@ -1,13 +1,13 @@
 name = "Field Guide"
-filename = "fieldguide-1.22.4+1.21.1-neoforge.jar"
+filename = "fieldguide-1.23.2+1.21.1-neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/72RRCWM6/versions/ALACNhoR/fieldguide-1.22.4%2B1.21.1-neoforge.jar"
+url = "https://cdn.modrinth.com/data/72RRCWM6/versions/POq3cuP6/fieldguide-1.23.2%2B1.21.1-neoforge.jar"
 hash-format = "sha512"
-hash = "5bb854764e4174d1c4de8614a4409604506e65625c233752aae02c60855c6b1777dcb950cf4af32606d1ddaef380c5632c48924ca787c71d9b9735b39151b43a"
+hash = "e872bb0e3feb14b89492840abe9ebdeeacf61289374c620e66e32efad578798cad53e792ca2d6adb50099a55bfa0148a18444215aeca11aa78abe744eb7420ce"
 
 [update]
 [update.modrinth]
 mod-id = "72RRCWM6"
-version = "ALACNhoR"
+version = "POq3cuP6"

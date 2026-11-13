@@ -1,13 +1,13 @@
 name = "Heart Crystals"
-filename = "heart_crystals-1.21.1-3.0.1.jar"
+filename = "heart_crystals-1.21.1-3.0.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/4RfZdduG/versions/x2uoz8hM/heart_crystals-1.21.1-3.0.1.jar"
+url = "https://cdn.modrinth.com/data/4RfZdduG/versions/TkzvvUN6/heart_crystals-1.21.1-3.0.2.jar"
 hash-format = "sha512"
-hash = "6e5549de00051832d6625302a67c768e16c83932deccd154f2810aa2008261d6da598a514224f42d2a25f63cf110689d4a70a3a606ff17bc65c66ad4ae02644f"
+hash = "311f9b4b0f15e0fe8b0b6c9f8169ac689212e00a1607aeb598840f28f1092ca9d1f1bdafada70a68d2030fb8f31acf1a2a8706038547b38772036f234b3d32e1"
 
 [update]
 [update.modrinth]
 mod-id = "4RfZdduG"
-version = "x2uoz8hM"
+version = "TkzvvUN6"
