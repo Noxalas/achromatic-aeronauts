@@ -1,0 +1,8 @@
+name = "achromatic-aeronauts"
+filename = "achromatic_aeronauts-0.0.3.jar"
+side = "both"
+
+[download]
+url = "https://noxalas.github.io/achromatic-aeronauts/custom-jars/achromatic_aeronauts-0.0.3.jar"
+hash-format = "sha256"
+hash = "139931fc5c7060bacdfecf9cd4e2235d7d514b20a88eabf051fa06d930369454"

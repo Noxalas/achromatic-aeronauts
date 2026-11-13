@@ -154,6 +154,11 @@ hash = "9e931b19c0dd7a1043c14b1ffc1291cb741b8cdfb7db685d221c3c7b36efd6b3"
 metafile = true
 
 [[files]]
+file = "mods/achromatic-aeronauts.pw.toml"
+hash = "c42a471418b98abf028e467aeeb83d44f4c3c07cca7c040c35c1f4d551bdefb5"
+metafile = true
+
+[[files]]
 file = "mods/adapted-mobs.pw.toml"
 hash = "db5615f66d4cb40b47c665cd4a4012b5d2ada34713eaf53a3791291febef3b3a"
 metafile = true
