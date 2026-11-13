@@ -1,0 +1,19 @@
+{
+  "swapper": {
+    "supplementaries:sconce": "nomansland:sconce_torch",
+    "supplementaries:sconce_blue": "nomansland:sconce_soul_torch",
+    "minecraft:blast_furnace": "minecraft:furnace",
+    "minecraft:smithing_table": "minecraft:crafting_table",
+    "upgrade_aquatic:driftwood_log": "upgrade_aquatic:stripped_driftwood_log",
+    "upgrade_aquatic:driftwood": "upgrade_aquatic:stripped_driftwood",
+    "caverns_and_chasms:exposed_toolbox": "caverns_and_chasms:toolbox",
+    "caverns_and_chasms:weathered_toolbox": "caverns_and_chasms:toolbox",
+    "caverns_and_chasms:oxidized_toolbox": "caverns_and_chasms:toolbox",
+    "caverns_and_chasms:waxed_toolbox": "caverns_and_chasms:toolbox",
+    "caverns_and_chasms:waxed_exposed_toolbox": "caverns_and_chasms:toolbox",
+    "caverns_and_chasms:waxed_weathered_toolbox": "caverns_and_chasms:toolbox",
+    "caverns_and_chasms:waxed_oxidized_toolbox": "caverns_and_chasms:toolbox",
+    "supplementaries:rope": "farmersdelight:rope",
+    "supplementaries:gold_bars": "blockbox:golden_bars"
+  }
+}

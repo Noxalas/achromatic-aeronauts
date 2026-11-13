@@ -9,6 +9,42 @@ file = "Dockerfile"
 hash = "dbbf80d800b0c163dce6952a523b17b1f9104b39ad89695de4cc17cbe1cb501f"
 
 [[files]]
+file = "config/createpickywheels-common.toml"
+hash = "b5a940305fbd3fd5acabef3402a7e377067235624e2733be832d73e0581eacd3"
+
+[[files]]
+file = "config/heart_crystals-common.toml"
+hash = "43d4dcc3b23aa29ed2266fd9b1c0b990ae6c32f0207929c2de24b2736a5a15ae"
+
+[[files]]
+file = "config/lowdoltenuine-common.toml"
+hash = "8c63e50e14aed80ede0aa3ff88ab090c589a8a0045e8b3c4c1e7aa148cdf16b8"
+
+[[files]]
+file = "config/quark-common.toml"
+hash = "f08ca23c970a331e668af0d947cebf70c0591bd1bca1e77dfbb96b3e2c965b6f"
+
+[[files]]
+file = "config/reliable_remover/removed_items.json"
+hash = "3f07c2721d0015332ac9cc51ecd937c4b37ce96ee896734b34675d7922d1c5aa"
+
+[[files]]
+file = "config/reliable_replacer/swapper.json"
+hash = "2501e9286b81f9f50b8bae0975f3e1057843a0179f2a38387244ccac571b795f"
+
+[[files]]
+file = "config/supplementaries-common.toml"
+hash = "0e79a222c7ba3176d6738337aa1339823eaeca0d5cf2341053982ffdf8755646"
+
+[[files]]
+file = "config/treephysics-common.toml"
+hash = "7b4e8922d498b7b0906ed5a74f8c6c8dc95c624567d196fa38e642fa18916b5c"
+
+[[files]]
+file = "custom-jars/achromatic_aeronauts-0.0.3.jar"
+hash = "139931fc5c7060bacdfecf9cd4e2235d7d514b20a88eabf051fa06d930369454"
+
+[[files]]
 file = "custom-jars/nametaginteraction-1.0.0.jar"
 hash = "7adf22c1d2e8e552923773c6d092d8c5f7d5f0a3ac904201b8589647773ef26f"
 
@@ -58,7 +94,7 @@ hash = "85ae442fc9786f175b4e54779adda35337cbd1308621b338a79d819450fb1ad0"
 
 [[files]]
 file = "kubejs/server_scripts/gameplay/item_behaviour.js"
-hash = "bc1468209c344ca0a1867b76be4171da0b40363562c6379a3e1ff0cffc614f9a"
+hash = "2881f918339e4958e1d33c40cd252300572797cb25d296826fb38a0e405ac01d"
 
 [[files]]
 file = "kubejs/server_scripts/gameplay/mining.js"
@@ -83,6 +119,10 @@ hash = "f5861ed660fede2717578f564cda5e2fa2d48b7954aaed7af2e8e4900bd3bb22"
 [[files]]
 file = "kubejs/server_scripts/progression/common_metals.js"
 hash = "d464695b90a7649718b1823e3010e1adc11de9ab4f67b9d25b667090cf08941d"
+
+[[files]]
+file = "kubejs/server_scripts/progression/primitive_tools.js"
+hash = "1bd44f170229ec98a28daa02849662911934e23488606b295dd840b58e794907"
 
 [[files]]
 file = "kubejs/server_scripts/progression/tool_loot_nerf.js"
@@ -112,10 +152,6 @@ hash = "b2d7afdb89537b4175189c34b477d2af7a9029b321d1ebca6b7357199787300c"
 file = "mods/abundant-atmosphere.pw.toml"
 hash = "9e931b19c0dd7a1043c14b1ffc1291cb741b8cdfb7db685d221c3c7b36efd6b3"
 metafile = true
-
-[[files]]
-file = "mods/achromatic_aeronauts-0.0.2.jar"
-hash = "ad84dfab35277769f10de9990593a89487b5facf923c310386f6649fc290410e"
 
 [[files]]
 file = "mods/adapted-mobs.pw.toml"
@@ -232,6 +268,11 @@ hash = "3e4ef8a1b4a51f845e60751b2431cc599aa52b6a43a79dacaa5fc7aadc15fe1c"
 metafile = true
 
 [[files]]
+file = "mods/book-of-dragons.pw.toml"
+hash = "84b36f21beea1d5d226bceacabe42e5be0ec86e6b58cab70aa4544ff61273bb4"
+metafile = true
+
+[[files]]
 file = "mods/break-my-fall.pw.toml"
 hash = "6c0bc5a9d279fdcb69876c20e416004b785ebb48aeef3c24ecd812523d513990"
 metafile = true
@@ -277,8 +318,13 @@ hash = "80455b28c3010ad153ccabc2998cb445b9854b26b386628243a9c8160b8d7e8e"
 metafile = true
 
 [[files]]
+file = "mods/cider-core.pw.toml"
+hash = "e5c6db2b3a90eeb1a78abc4f6b49dfe02286c08a7e8e9781e03cd75ca999f54b"
+metafile = true
+
+[[files]]
 file = "mods/cirrus.pw.toml"
-hash = "284c7050bbb93bd5b834ad003bfdc23c6666f0d00af1cff0f6fa3c0b00507481"
+hash = "340449593258ecdcfb3230c9e0be4f4d6fe78b283c6e24b953fd997728885867"
 metafile = true
 
 [[files]]
@@ -397,8 +443,58 @@ hash = "1a8ad607578c4a2aeb870dec14499267ebcedf7a8f196a4a4b4012134d58c7cc"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "0c20fea3407ed0db85b4b171f1820a24987f2659946fadd30bae044205041b09"
+metafile = true
+
+[[files]]
 file = "mods/dripsounds.pw.toml"
 hash = "206ca58e8978bb012e8469ea9813c64335984bc7ec93b88bc3f0d573f432ab9c"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-ancient-city-overhaul.pw.toml"
+hash = "d92fc8263e986d682e6a207e434cbffc2844ea180e916553b280033d560d7c89"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-desert-temple-overhaul.pw.toml"
+hash = "3e82f7bc2a521721e30bc60bc9823502daf204646d3a9bf33ab2616591261568"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-jungle-temple-overhaul.pw.toml"
+hash = "72724de3861b2f041eb0b430e2771c2f5287b3b85ba918562e050712b5571b81"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-nether-fortress-overhaul.pw.toml"
+hash = "dbbc6ccc7145bcfcabae5a53ee26684cf021f19a3b6c872dc0341e2410357e4f"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-pillager-outpost-overhaul.pw.toml"
+hash = "e73798f88e6e4fb817c102f64f57fcfd41f271aba703bed8e7b70759356cf246"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-stronghold-overhaul.pw.toml"
+hash = "872ab8c78193dd775eb707793b8edc528323632a7fe2930223513635c2fddefa"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-swamp-hut-overhaul.pw.toml"
+hash = "ae0e810f5d824dbf486bce1629ddf3e792529d78147575fd57b6be1a35ab2843"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-woodland-mansion-overhaul.pw.toml"
+hash = "7be67fc02758063ad89a6e0dba7451a3347d7ddd7e657263e8a7dd98d289613f"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns.pw.toml"
+hash = "b9244dca740d333c22f3425991fdd2fd40d3ae12384079a40a6fb7d4bca18a18"
 metafile = true
 
 [[files]]
@@ -437,6 +533,11 @@ hash = "37ae0fc372cc387710fb7cb525f79a405e88f9e88786f83c1e0834e127997d35"
 metafile = true
 
 [[files]]
+file = "mods/envelope.pw.toml"
+hash = "f22123961d6fd48c33572b1e4183acd88599552c676f2ce32a7ebc53c0f2280c"
+metafile = true
+
+[[files]]
 file = "mods/etched.pw.toml"
 hash = "e542594c75eddafc1b72baebc82aa65ce2d8d791bc0ace17c731760bf30360b4"
 metafile = true
@@ -454,6 +555,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "97347efd9e808841d72fe3599da8a11add8422e97f89ae1c85cdfc0acfa18f96"
+metafile = true
+
+[[files]]
+file = "mods/fauna-engine.pw.toml"
+hash = "eddaa680d735f590dd94b6928c851f941a22ceb0afc85bedd9558cd003d6fe2d"
 metafile = true
 
 [[files]]
@@ -569,6 +675,11 @@ metafile = true
 [[files]]
 file = "mods/in-control.pw.toml"
 hash = "1d29132b5ab008c93c8ede5a5b5fb84a5eace32c8f356ed16a66a23cb00d7f28"
+metafile = true
+
+[[files]]
+file = "mods/incremental-mining.pw.toml"
+hash = "b43a35ee478e221af6adcbf40ce1c7c4004cb7da6f9b55d7dae9142055046b01"
 metafile = true
 
 [[files]]
@@ -764,6 +875,11 @@ metafile = true
 [[files]]
 file = "mods/no-mans-land.pw.toml"
 hash = "d5cef080d071a3e9dcc3514417fd8eedbaa1da5c79a28a0989b2beaa7164835f"
+metafile = true
+
+[[files]]
+file = "mods/nofun-dnt.pw.toml"
+hash = "22f1ac45e20a4704c0b9b5da8f32233142844358af62f5bd351f75317f5e5277"
 metafile = true
 
 [[files]]
@@ -1188,6 +1304,16 @@ metafile = true
 [[files]]
 file = "mods/windswept.pw.toml"
 hash = "e6add5c438aaf45243f804e0696307b24a185e159da32a1ba4f3865c0de8b6c2"
+metafile = true
+
+[[files]]
+file = "mods/wits.pw.toml"
+hash = "86cc50d0858d32dcc3739a610cdcafd32f3cedd2f89bf81a87df7f3346a25760"
+metafile = true
+
+[[files]]
+file = "mods/woodworks.pw.toml"
+hash = "c528ce61fc0e0036a7b6055ad71b1a5bf1cb388537397b6852464b9855d69345"
 metafile = true
 
 [[files]]
