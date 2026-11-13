@@ -788,11 +788,6 @@ hash = "a29113f8231c78e405ccd23f7a86224f03647f03a372cf5469c83d88ab9da202"
 metafile = true
 
 [[files]]
-file = "mods/melancholic_hunger.pw.toml"
-hash = "710b043594853d4038c702426bd3d4716940755a25e27996d151c472b6246c4d"
-metafile = true
-
-[[files]]
 file = "mods/mini-music-tweaks.pw.toml"
 hash = "ff38e3eba5b3f395034cebf0e6086b2ce222c0da553206054ba71929812a447a"
 metafile = true
