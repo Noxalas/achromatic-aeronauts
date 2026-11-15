@@ -1,0 +1,270 @@
+#The parameter information has been removed for readability since the GUI is now available. More detailed descriptions are available on the official page of the mod. 0: LegacyZero, 1: Simplified, 2: Linear, 3: Custom Circular, 4: Circular, 5: Custom Banded, 6: Banded, 7: Custom Circular 6, 8: Circular 6, 9: Custom Square, 10: Square, 11: Custom Discrete, 12: Discrete. Custom modes from addon mods: 101-105
+# Default: 12
+# Range: 0 ~ 105
+generation_mode = 12
+# Default: 20000.0
+# Range: 0.0 ~ 6.0E12
+equatorial_distance = 20000.0
+# Default: 0.0
+# Range: -6.0E12 ~ 6.0E12
+equator_offset = 0.0
+# Default: 2.0
+# Range: -6.0E12 ~ 6.0E12
+wave_magnification = 2.0
+# Default: 1.0
+# Range: -6.0E12 ~ 6.0E12
+wave_frequency = 1.0
+# Default: 1.4
+# Range: -6.0E12 ~ 6.0E12
+wave_amplitude = 1.4
+looping_world = false
+multidimensional_bands = false
+# Default: 100.0
+# Range: 0.0 ~ 100.0
+natural_temperature_influence = 100.0
+# Default: 1.0
+# Range: 0.0 ~ 6.0E12
+distortionMultiplier = 1.0
+# Default: 0.0
+# Range: -100.0 ~ 100.0
+global_temperature_modifier_percentage = 0.0
+# Default: 0.0
+# Range: 0.0 ~ 100.0
+global_temperature_mitigation_percentage = 0.0
+# Default: 0.35
+# Range: -2.0 ~ 8.0
+temperature_zone_1 = 0.35
+# Default: 0.35
+# Range: -2.0 ~ 8.0
+temperature_zone_2 = 0.35
+# Default: 0.35
+# Range: -2.0 ~ 8.0
+temperature_zone_3 = 0.35
+# Default: 0.55
+# Range: -2.0 ~ 8.0
+temperature_zone_4 = 0.55
+# Default: 0.9
+# Range: -2.0 ~ 8.0
+temperature_zone_5 = 0.9
+# Default: 0.82
+# Range: -2.0 ~ 8.0
+temperature_zone_6 = 0.82
+# Default: 0.1
+# Range: -2.0 ~ 8.0
+temperature_zone_7 = 0.1
+# Default: -0.1
+# Range: -2.0 ~ 8.0
+temperature_zone_8 = -0.1
+# Default: -0.3
+# Range: -2.0 ~ 8.0
+temperature_zone_9 = -0.3
+# Default: -0.75
+# Range: -2.0 ~ 8.0
+temperature_zone_10 = -0.75
+# Default: -0.75
+# Range: -2.0 ~ 8.0
+temperature_zone_11 = -0.75
+# Default: -0.8
+# Range: -2.0 ~ 8.0
+temperature_zone_12 = -0.8
+# Default: 8.0
+# Range: -2.0 ~ 8.0
+temperature_transition_point_1 = 8.0
+# Default: 8.0
+# Range: -2.0 ~ 8.0
+temperature_transition_point_2 = 8.0
+# Default: 8.0
+# Range: -2.0 ~ 8.0
+temperature_transition_point_3 = 8.0
+# Default: 8.0
+# Range: -2.0 ~ 8.0
+temperature_transition_point_4 = 8.0
+# Default: 8.0
+# Range: -2.0 ~ 8.0
+temperature_transition_point_5 = 8.0
+# Default: 0.1
+# Range: 0.0 ~ 1.0
+t_variability_zone_1 = 0.1
+# Default: 0.1
+# Range: 0.0 ~ 1.0
+t_variability_zone_2 = 0.1
+# Default: 0.1
+# Range: 0.0 ~ 1.0
+t_variability_zone_3 = 0.1
+# Default: 0.25
+# Range: 0.0 ~ 1.0
+t_variability_zone_4 = 0.25
+# Default: 0.1
+# Range: 0.0 ~ 1.0
+t_variability_zone_5 = 0.1
+# Default: 0.25
+# Range: 0.0 ~ 1.0
+t_variability_zone_6 = 0.25
+# Default: 0.05
+# Range: 0.0 ~ 1.0
+t_variability_zone_7 = 0.05
+# Default: 0.1
+# Range: 0.0 ~ 1.0
+t_variability_zone_8 = 0.1
+# Default: 0.15
+# Range: 0.0 ~ 1.0
+t_variability_zone_9 = 0.15
+# Default: 0.25
+# Range: 0.0 ~ 1.0
+t_variability_zone_10 = 0.25
+# Default: 0.25
+# Range: 0.0 ~ 1.0
+t_variability_zone_11 = 0.25
+# Default: 0.3
+# Range: 0.0 ~ 1.0
+t_variability_zone_12 = 0.3
+enable_humidity_bands = false
+# Default: 1000.0
+# Range: -6.0E12 ~ 6.0E12
+humidity_bands_width = 1000.0
+# Default: 0.7
+# Range: -2.0 ~ 8.0
+humidity_zone_1 = 0.7
+# Default: 0.2
+# Range: -2.0 ~ 8.0
+humidity_zone_2 = 0.2
+# Default: -0.55
+# Range: -2.0 ~ 8.0
+humidity_zone_3 = -0.55
+# Default: -0.5
+# Range: -2.0 ~ 8.0
+humidity_zone_4 = -0.5
+# Default: -0.9
+# Range: -2.0 ~ 8.0
+humidity_zone_5 = -0.9
+# Default: 8.0
+# Range: -2.0 ~ 8.0
+humidity_zone_6 = 8.0
+# Default: 8.0
+# Range: -2.0 ~ 8.0
+humidity_zone_7 = 8.0
+# Default: 8.0
+# Range: -2.0 ~ 8.0
+humidity_zone_8 = 8.0
+# Default: 8.0
+# Range: -2.0 ~ 8.0
+humidity_zone_9 = 8.0
+# Default: 0.5
+# Range: -2.0 ~ 8.0
+humidity_zone_10 = 0.5
+# Default: 0.0
+# Range: -2.0 ~ 8.0
+humidity_zone_11 = 0.0
+# Default: -1.0
+# Range: -2.0 ~ 8.0
+humidity_zone_12 = -1.0
+# Default: 8.0
+# Range: -2.0 ~ 8.0
+humidity_transition_point_1 = 8.0
+# Default: 8.0
+# Range: -2.0 ~ 8.0
+humidity_transition_point_2 = 8.0
+# Default: 8.0
+# Range: -2.0 ~ 8.0
+humidity_transition_point_3 = 8.0
+# Default: 8.0
+# Range: -2.0 ~ 8.0
+humidity_transition_point_4 = 8.0
+# Default: 8.0
+# Range: -2.0 ~ 8.0
+humidity_transition_point_5 = 8.0
+# Default: 0.35
+# Range: 0.0 ~ 1.0
+u_variability_zone_1 = 0.35
+# Default: 0.2
+# Range: 0.0 ~ 1.0
+u_variability_zone_2 = 0.2
+# Default: 0.5
+# Range: 0.0 ~ 1.0
+u_variability_zone_3 = 0.5
+# Default: 0.3
+# Range: 0.0 ~ 1.0
+u_variability_zone_4 = 0.3
+# Default: 0.1
+# Range: 0.0 ~ 1.0
+u_variability_zone_5 = 0.1
+# Default: 0.15
+# Range: 0.0 ~ 1.0
+u_variability_zone_6 = 0.15
+# Default: 1.0
+# Range: 0.0 ~ 1.0
+u_variability_zone_7 = 1.0
+# Default: 1.0
+# Range: 0.0 ~ 1.0
+u_variability_zone_8 = 1.0
+# Default: 1.0
+# Range: 0.0 ~ 1.0
+u_variability_zone_9 = 1.0
+# Default: 0.6
+# Range: 0.0 ~ 1.0
+u_variability_zone_10 = 0.6
+# Default: 0.4
+# Range: 0.0 ~ 1.0
+u_variability_zone_11 = 0.4
+# Default: 0.55
+# Range: 0.0 ~ 1.0
+u_variability_zone_12 = 0.55
+extra_bands = false
+# Default: 10.0
+# Range: 1.0 ~ 100.0
+percentage_coverage_zone_1 = 10.0
+# Default: 8.0
+# Range: 1.0 ~ 100.0
+percentage_coverage_zone_2 = 8.0
+# Default: 10.0
+# Range: 1.0 ~ 100.0
+percentage_coverage_zone_3 = 10.0
+# Default: 3.0
+# Range: 1.0 ~ 100.0
+percentage_coverage_zone_4 = 3.0
+# Default: 7.0
+# Range: 1.0 ~ 100.0
+percentage_coverage_zone_5 = 7.0
+# Default: 9.5
+# Range: 1.0 ~ 100.0
+percentage_coverage_zone_6 = 9.5
+# Default: 11.5
+# Range: 1.0 ~ 100.0
+percentage_coverage_zone_7 = 11.5
+# Default: 9.0
+# Range: 1.0 ~ 100.0
+percentage_coverage_zone_8 = 9.0
+# Default: 10.0
+# Range: 1.0 ~ 100.0
+percentage_coverage_zone_9 = 10.0
+# Default: 9.0
+# Range: 1.0 ~ 100.0
+percentage_coverage_zone_10 = 9.0
+# Default: 5.0
+# Range: 1.0 ~ 100.0
+percentage_coverage_zone_11 = 5.0
+# Default: 8.0
+# Range: 1.0 ~ 100.0
+percentage_coverage_zone_12 = 8.0
+randomize_underground = true
+# Default: 45.0
+# Range: -6.0E12 ~ 6.0E12
+randomize_underground_below_y = 45.0
+# Default: 1
+# Range: 0 ~ 2
+underground_randomization_type = 1
+custom_mode_id_1 = "default"
+custom_mode_id_2 = "default"
+custom_mode_id_3 = "default"
+custom_mode_id_4 = "default"
+custom_mode_id_5 = "default"
+# Default: 0.0
+# Range: -6.0E12 ~ 6.0E12
+info_humidity_offset = 0.0
+show_gui_button = true
+# Default: 0
+# Range: -100000000 ~ 100000000
+buttonXOffset = 0
+# Default: 0
+# Range: -100000000 ~ 100000000
+buttonYOffset = 0

@@ -23,3 +23,5 @@
 		"Impermanent Hearts" = false
 		#If heart lanterns should no longer be a source of the regeneration effect.
 		"Heart Lanterns Don't Give Regeneration" = false
+		#If Heart Crystals should drop as a block when silk touched, like other ores.
+		"Heart Geode" = false

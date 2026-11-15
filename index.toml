@@ -1585,6 +1585,11 @@ hash = "80da9a0429682809b417e1f706aa43d6345b73e3581afe7be50b95b2aa7f2297"
 metafile = true
 
 [[files]]
+file = "mods/lmft.pw.toml"
+hash = "35725a7bee95c5f0df1eeccd3ed406036c35fae26a7d7864fae1127a85957fdb"
+metafile = true
+
+[[files]]
 file = "mods/lootjs.pw.toml"
 hash = "e42581d8eb65aa947dcbe6edb71b2082e84f31936b01f131758395d88dabc919"
 metafile = true
@@ -2076,11 +2081,6 @@ metafile = true
 [[files]]
 file = "mods/tolerable-creepers.pw.toml"
 hash = "f188c5a23a7b16f29e8fbcbf497eb8101b7db42c2182feba49aceabe54965836"
-metafile = true
-
-[[files]]
-file = "mods/tree-physics.pw.toml"
-hash = "0c084b716102bb33d1b14ebd707a732cd807ddebc135989ee12664b58e3ad7f8"
 metafile = true
 
 [[files]]

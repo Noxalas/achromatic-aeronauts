@@ -1,0 +1,58 @@
+#Whether parrots can mimic player voice chat at all
+enabled = true
+#Chance (0.0 - 1.0) for each nearby, non-cooldown parrot to mimic a finished voice clip
+# Default: 0.05
+# Range: 0.0 ~ 1.0
+mimicChance = 0.05
+#Radius (in blocks) around a talking player to look for parrots
+# Default: 16.0
+# Range: 1.0 ~ 128.0
+searchRadius = 16.0
+#Minimum length (in seconds) a voice clip needs to be before parrots will consider mimicking it
+# Default: 0.5
+# Range: 0.1 ~ 30.0
+minClipSeconds = 0.5
+#Maximum length (in seconds) of audio captured from a player before it's cut off
+# Default: 8.0
+# Range: 1.0 ~ 30.0
+maxClipSeconds = 8.0
+#How long (in milliseconds) a player needs to stop talking before their clip is considered finished
+# Default: 500
+# Range: 100 ~ 5000
+silenceTimeoutMs = 500
+#Playback speed/pitch multiplier for the first (sped up, high pitched) part of the mimicry
+# Default: 2.0
+# Range: 1.0 ~ 8.0
+fastSpeedFactor = 2.0
+#Playback speed/pitch multiplier for the second (slowed down, low pitched) part of the mimicry. Values below 1.0 slow it down
+# Default: 0.5
+# Range: 0.1 ~ 1.0
+slowSpeedFactor = 0.5
+#How many times the sped up/high pitched part repeats back to back before the slowed down part plays
+# Default: 2
+# Range: 1 ~ 10
+fastRepeatCount = 2
+#How many times the slowed down/low pitched part repeats back to back after the sped up part plays
+# Default: 1
+# Range: 1 ~ 10
+slowRepeatCount = 1
+#Silence (in milliseconds) inserted between each repeat of the fast part, and before the slow part
+# Default: 150
+# Range: 0 ~ 2000
+gapBetweenClipsMs = 150
+#Volume multiplier applied to the parrot's mimicked audio. 1.0 = unchanged, >1.0 = louder, <1.0 = quieter. Values too high will clip/distort
+# Default: 1.3
+# Range: 0.1 ~ 4.0
+volumeGain = 1.3
+#Minimum time (in seconds) a single parrot must wait before mimicking again
+# Default: 10.0
+# Range: 0.0 ~ 600.0
+parrotCooldownSeconds = 10.0
+#Chance (0.0 - 1.0) that, when a parrot decides to mimic, it instead plays a fixed 'listen_to_me_friend' sound from the parrot instead of repeating what the player said
+# Default: 0.02
+# Range: 0.0 ~ 1.0
+specialClipChance = 0.02
+#Maximum random delay (in seconds) before a parrot starts mimicking after deciding to. Each parrot rolls its own delay between 0 and this value, so if several parrots all decide to mimic the same clip, their playback doesn't start in perfect unison and layer on top of each other. Set to 0 to disable and play immediately.
+# Default: 1.5
+# Range: 0.0 ~ 10.0
+maxMimicDelaySeconds = 1.5

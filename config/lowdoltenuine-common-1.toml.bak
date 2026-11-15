@@ -1,0 +1,25 @@
+#What items stack to by default in your modpack. Should be 64 unless you've changed it with a mod like Bigger Stacks.
+#For crankbows and packing container tweaks.
+"Default Stack Size" = 64
+
+	["Mowzies Mobs".Rakes]
+		#If hoes should also be able to rake sand. Disabled by default option for my modpack
+		"Hoes Rake Sand" = false
+
+	["jaden nether expansion"."Bone Rods"]
+		#If bone rods should be placed by right clicking vanilla bones, instead of having a new bone rod item
+		"Bone ahh bone" = true
+
+	[OpposingForces.Sawblades]
+		#If the terror sawblades from the opposing forces modification should be banned from doing the tree chop thing, which is VANILLA MINUS and should not be encouraged.
+		"Vanilla Plus Modpack" = false
+
+	[Woodworks.Stonecutter]
+		#If Woodworks is loaded, whether all sawmill recipes should becomes stonecutter recipes instead.
+		"Stonecutter more like woodcutter am I right" = true
+
+	[heart_crystals."Heart Crystals"]
+		#If heart crystals from the heart crystals mod should give the Health Boost effect and regen for awhile instead of giving you permanent hearts
+		"Impermanent Hearts" = false
+		#If heart lanterns should no longer be a source of the regeneration effect.
+		"Heart Lanterns Don't Give Regeneration" = false
