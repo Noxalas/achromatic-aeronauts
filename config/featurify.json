@@ -1,0 +1,183 @@
+{
+  "config_version": "2.0.17",
+  "config_datetime": "2026-11-13_20-36-07",
+  "global": {
+    "disable_all_placed_features": false
+  },
+  "placed_features": [
+    {
+      "name": "ars_nouveau:mojang_flowers",
+      "is_disabled": true
+    },
+    {
+      "name": "ars_nouveau:mojang_grass",
+      "is_disabled": true
+    },
+    {
+      "name": "ars_nouveau:placed_berry_bush",
+      "is_disabled": true
+    },
+    {
+      "name": "ars_nouveau:placed_blazing_tree",
+      "is_disabled": true
+    },
+    {
+      "name": "ars_nouveau:placed_cascading_tree",
+      "is_disabled": true
+    },
+    {
+      "name": "ars_nouveau:placed_dense_archwoods",
+      "is_disabled": true
+    },
+    {
+      "name": "ars_nouveau:placed_flourishing_tree",
+      "is_disabled": true
+    },
+    {
+      "name": "ars_nouveau:placed_lights",
+      "is_disabled": true
+    },
+    {
+      "name": "ars_nouveau:placed_mixed_archwoods",
+      "is_disabled": true
+    },
+    {
+      "name": "ars_nouveau:placed_vexing_tree",
+      "is_disabled": true
+    },
+    {
+      "name": "caverns_and_chasms:false_hope",
+      "is_disabled": true
+    },
+    {
+      "name": "caverns_and_chasms:ore_gold_and_silver_lower",
+      "is_disabled": true
+    },
+    {
+      "name": "caverns_and_chasms:ore_gold_buried_with_silver",
+      "is_disabled": true
+    },
+    {
+      "name": "caverns_and_chasms:ore_silver_buried",
+      "is_disabled": true
+    },
+    {
+      "name": "caverns_and_chasms:ore_silver_buried_with_gold",
+      "is_disabled": true
+    },
+    {
+      "name": "caverns_and_chasms:ore_silver_extra",
+      "is_disabled": true
+    },
+    {
+      "name": "caverns_and_chasms:ore_spinel",
+      "is_disabled": true
+    },
+    {
+      "name": "caverns_and_chasms:ore_spinel_buried",
+      "is_disabled": true
+    },
+    {
+      "name": "create:striated_ores_nether",
+      "is_disabled": true
+    },
+    {
+      "name": "create:striated_ores_overworld",
+      "is_disabled": true
+    },
+    {
+      "name": "create:zinc_ore",
+      "is_disabled": true
+    },
+    {
+      "name": "farmersdelight:patch_wild_beetroots",
+      "is_disabled": true
+    },
+    {
+      "name": "farmersdelight:patch_wild_cabbages",
+      "is_disabled": true
+    },
+    {
+      "name": "farmersdelight:patch_wild_carrots",
+      "is_disabled": true
+    },
+    {
+      "name": "farmersdelight:patch_wild_onions",
+      "is_disabled": true
+    },
+    {
+      "name": "farmersdelight:patch_wild_potatoes",
+      "is_disabled": true
+    },
+    {
+      "name": "farmersdelight:patch_wild_rice",
+      "is_disabled": true
+    },
+    {
+      "name": "farmersdelight:patch_wild_tomatoes",
+      "is_disabled": true
+    },
+    {
+      "name": "heart_crystals:heart_crystal",
+      "is_disabled": true
+    },
+    {
+      "name": "irons_spellbooks:ore_mithril_placement",
+      "is_disabled": true
+    },
+    {
+      "name": "modestmining:aluminium_ore_placed",
+      "is_disabled": true
+    },
+    {
+      "name": "modestmining:lead_ore_placed",
+      "is_disabled": true
+    },
+    {
+      "name": "modestmining:nether_lead_ore_placed",
+      "is_disabled": true
+    },
+    {
+      "name": "modestmining:silver_ore_extra_placed",
+      "is_disabled": true
+    },
+    {
+      "name": "modestmining:silver_ore_placed",
+      "is_disabled": true
+    },
+    {
+      "name": "newworld:birch_cherry_grove",
+      "is_disabled": true
+    },
+    {
+      "name": "nirvana:patch_wild_hemp",
+      "is_disabled": true
+    },
+    {
+      "name": "quark:lavender_blossom_placed",
+      "is_disabled": true
+    },
+    {
+      "name": "quark:orange_blossom_placed",
+      "is_disabled": true
+    },
+    {
+      "name": "quark:red_blossom_placed",
+      "is_disabled": true
+    },
+    {
+      "name": "quark:yellow_blossom_placed",
+      "is_disabled": true
+    },
+    {
+      "name": "supplementaries:wild_flax",
+      "is_disabled": true
+    }
+  ],
+  "biomes": [
+    {
+      "name": "ars_nouveau:archwood_forest",
+      "is_disabled": true
+    }
+  ]
+}
