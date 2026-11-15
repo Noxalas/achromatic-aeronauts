@@ -1,0 +1,9 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#c:is_overworld",
+  "features": [
+    "achromatic_aeronauts:ore_gold",
+    "achromatic_aeronauts:ore_gold_lower"
+  ],
+  "step": "underground_ores"
+}

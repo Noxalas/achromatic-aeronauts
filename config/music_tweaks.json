@@ -1,0 +1,24 @@
+{
+  "enabled": false,
+  "min_pursuit_entities": 3,
+  "decay_time": 3,
+  "sounds": [
+    "minecraft:music_disc.pigstep",
+    "minecraft:music_disc.mellohi"
+  ],
+  "better_jukeboxes": true,
+  "jukebox_fade_out": true,
+  "jukebox_distance": 64.0,
+  "music_fade_sounds": [
+    "minecraft:ui.toast.challenge_complete",
+    "advancementplaques:ui.toast.task_complete",
+    "advancementplaques:ui.toast.goal_complete"
+  ],
+  "music_frequency": "DEFAULT",
+  "show_music_toast": true,
+  "permanent_toast_in_options": true,
+  "play_toast_sound": true,
+  "play_music_when_paused": true,
+  "log_missing_artists": true,
+  "show_music_id_in_toast": false
+}

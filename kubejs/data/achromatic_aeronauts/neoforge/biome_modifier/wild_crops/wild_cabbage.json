@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#achromatic_aeronauts:has_cabbage",
+  "features": "achromatic_aeronauts:wild_cabbage",
+  "step": "vegetal_decoration"
+}

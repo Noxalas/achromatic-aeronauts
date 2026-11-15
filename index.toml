@@ -216,6 +216,11 @@ hash = "db5615f66d4cb40b47c665cd4a4012b5d2ada34713eaf53a3791291febef3b3a"
 metafile = true
 
 [[files]]
+file = "mods/afterburner.pw.toml"
+hash = "0719ef3edeca57fc26e0928be8ca8581bf8828e6dc1e92fb88b0f5459dcb87f3"
+metafile = true
+
+[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "035d27b4ea4da57db6cb1b2999c5ee2017737310811f86fb29f80526718b05fc"
 metafile = true

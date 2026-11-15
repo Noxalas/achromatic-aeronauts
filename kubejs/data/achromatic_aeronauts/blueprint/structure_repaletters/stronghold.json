@@ -1,0 +1,80 @@
+{
+  "repaletter": [
+    {
+    "type": "blueprint:simple",
+    "replaces_block": "minecraft:raw_iron_block",
+    "replaces_with": "minecraft:gravel"
+  },
+    {
+    "type": "blueprint:simple",
+    "replaces_block": "minecraft:raw_gold_block",
+    "replaces_with": "minecraft:cobblestone"
+  },
+    {
+    "type": "blueprint:simple",
+    "replaces_block": "minecraft:raw_copper_block",
+    "replaces_with": "minecraft:mud"
+  },
+    {
+    "type": "blueprint:simple",
+    "replaces_block": "minecraft:iron_block",
+    "replaces_with": "blocksabound:reinforced_iron"
+  },
+    {
+    "type": "blueprint:simple",
+    "replaces_block": "minecraft:gold_block",
+    "replaces_with": "caverns_and_chasms:chiseled_gold_bricks"
+  },
+    {
+    "type": "blueprint:simple",
+    "replaces_block": "minecraft:polished_andesite",
+    "replaces_with": "nomansland:polished_stone"
+  },
+    {
+    "type": "blueprint:simple",
+    "replaces_block": "minecraft:cobblestone",
+    "replaces_with": "nomansland:cobblestone_bricks"
+  },
+    {
+    "type": "blueprint:simple",
+    "replaces_block": "minecraft:infested_cobblestone",
+    "replaces_with": "nomansland:cobblestone_bricks"
+  },
+    {
+    "type": "blueprint:simple",
+    "replaces_block": "minecraft:mossy_cobblestone",
+    "replaces_with": "nomansland:mossy_cobblestone_bricks"
+  },
+    {
+    "type": "blueprint:simple",
+    "replaces_block": "minecraft:torch",
+    "replaces_with": "nomansland:sconce_torch"
+  },
+    {
+    "type": "blueprint:simple",
+    "replaces_block": "minecraft:wall_torch",
+    "replaces_with": "nomansland:sconce_wall_torch"
+  },
+    {
+    "type": "blueprint:simple",
+    "replaces_block": "minecraft:soul_torch",
+    "replaces_with": "nomansland:sconce_torch"
+  },
+    {
+    "type": "blueprint:simple",
+    "replaces_block": "minecraft:soul_wall_torch",
+    "replaces_with": "nomansland:sconce_torch"
+  },
+    {
+    "type": "blueprint:simple",
+    "replaces_block": "minecraft:polished_granite",
+    "replaces_with": "nomansland:polished_siltstone"
+  },
+    {
+    "type": "blueprint:simple",
+    "replaces_block": "minecraft:coal_block",
+    "replaces_with": "caverns_and_chasms:coal"
+  }
+],
+  "structures": ["minecraft:stronghold"]
+}

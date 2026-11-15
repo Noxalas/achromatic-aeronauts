@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "nomansland:prairie",
+  "features": "achromatic_aeronauts:wild_wheat_extra",
+  "step": "vegetal_decoration"
+}

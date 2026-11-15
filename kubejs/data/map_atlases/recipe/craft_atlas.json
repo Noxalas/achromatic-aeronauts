@@ -1,0 +1,11 @@
+{
+  "type": "map_atlases:crafting_atlas",
+  "ingredients": [
+    {
+      "item": "achromatic_aeronauts:scribing_tools"
+    },
+    {
+      "item": "minecraft:book"
+    }
+  ]
+}

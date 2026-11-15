@@ -1,0 +1,29 @@
+ServerEvents.tags("item", (event) => {
+  [
+    "enchantables",
+    "enchantable",
+    "farmersdelight:enchantable/knife",
+    "nova_structures:enchantable/metal",
+    "c:enchantables",
+  ].concat([
+    "armor",
+    "bow",
+    "chest_armor",
+    "crossbow",
+    "durability",
+    "equippable",
+    "fire_aspect",
+    "fishing",
+    "foot_armor",
+    "head_armor",
+    "leg_armor",
+    "mace",
+    "mining",
+    "mining_loot",
+    "sharp_weapon",
+    "sword",
+    "trident",
+    "vanishing",
+    "weapon",
+  ].map((kind) => `enchantable/${kind}`)).forEach((tag) => event.removeAll(tag));
+});

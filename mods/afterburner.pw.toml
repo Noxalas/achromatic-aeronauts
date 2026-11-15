@@ -1,0 +1,13 @@
+name = "Afterburner"
+filename = "afterburner-0.3.3+1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/o0kOtaIS/versions/qBZbh18P/afterburner-0.3.3%2B1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "fe469ad89a3a19ce9b84914ff31e99756a314b94e475503a4ede98e8e592d2b10c6d0a0e3f45918427b41a69d565be6474eafa70f84820edf5a0b045be806c5d"
+
+[update]
+[update.modrinth]
+mod-id = "o0kOtaIS"
+version = "qBZbh18P"

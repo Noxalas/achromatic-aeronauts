@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#achromatic_aeronauts:has_carrots",
+  "features": "achromatic_aeronauts:wild_carrots",
+  "step": "vegetal_decoration"
+}

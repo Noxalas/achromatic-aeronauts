@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#achromatic_aeronauts:has_rice",
+  "features": "achromatic_aeronauts:wild_rice",
+  "step": "vegetal_decoration"
+}

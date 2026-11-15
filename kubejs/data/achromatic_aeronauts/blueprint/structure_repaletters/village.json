@@ -1,0 +1,77 @@
+{
+  "repaletter": [
+    {
+    "type": "blueprint:simple",
+    "replaces_block": "minecraft:torch",
+    "replaces_with": "nomansland:extinguished_torch"
+  },
+    {
+    "type": "blueprint:simple",
+    "replaces_block": "minecraft:wall_torch",
+    "replaces_with": "nomansland:extinguished_wall_torch"
+  },
+    {
+      "type": "caverns_and_chasms:chance",
+      "chance": 0.33,
+      "replaces_block": "minecraft:cobblestone",
+      "replaces_with": {
+        "Name": "minecraft:mossy_cobblestone"
+      }
+    },
+    {
+      "type": "caverns_and_chasms:chance",
+      "chance": 0.33,
+      "replaces_block": "minecraft:glass_pane",
+      "replaces_with": {
+        "Name": "blockbox:rough_glass_pane"
+      }
+    },
+    {
+      "type": "caverns_and_chasms:chance",
+      "chance": 0.2,
+      "replaces_block": "minecraft:glass_pane",
+      "replaces_with": {
+        "Name": "minecraft:brown_stained_glass_pane"
+      }
+    },
+    {
+      "type": "caverns_and_chasms:chance",
+      "chance": 0.2,
+      "replaces_block": "minecraft:glass_pane",
+      "replaces_with": {
+        "Name": "minecraft:air"
+      }
+    },
+    
+    {
+    "type": "blueprint:simple_tag",
+    "replaces_block": "minecraft:crops",
+    "replaces_with": "nomansland:dried_grass"
+    },
+    {
+      "type": "caverns_and_chasms:chance",
+      "chance": 0.2,
+      "replaces_block": "nomansland:dried_grass",
+      "replaces_with": {
+        "Name": "minecraft:dead_bush"
+      }
+    },
+    {
+      "type": "caverns_and_chasms:chance",
+      "chance": 0.3,
+      "replaces_block": "nomansland:dried_grass",
+      "replaces_with": {
+        "Name": "nomansland:grass_sprouts"
+      }
+    },
+    {
+      "type": "caverns_and_chasms:chance",
+      "chance": 0.2,
+      "replaces_block": "nomansland:dried_grass",
+      "replaces_with": {
+        "Name": "minecraft:short_grass"
+      }
+    }
+],
+  "structures": "#minecraft:village"
+}

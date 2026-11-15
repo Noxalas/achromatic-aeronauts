@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#c:is_warm",
+  "features": "achromatic_aeronauts:wild_tomatoes",
+  "step": "vegetal_decoration"
+}

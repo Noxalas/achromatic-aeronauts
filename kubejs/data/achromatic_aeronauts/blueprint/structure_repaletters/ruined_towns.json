@@ -1,0 +1,35 @@
+{
+  "repaletter": [
+    {
+    "type": "blueprint:simple",
+    "replaces_block": "minecraft:polished_granite",
+    "replaces_with": "nomansland:polished_siltstone"
+  },
+    {
+    "type": "blueprint:simple",
+    "replaces_block": "minecraft:oxidized_chiseled_copper",
+    "replaces_with": "caverns_and_chasms:oxidized_copper_bricks"
+  },
+    {
+    "type": "blueprint:simple",
+    "replaces_block": "minecraft:smooth_stone_slab",
+    "replaces_with": "nomansland:polished_stone_slab"
+  },
+    {
+    "type": "blueprint:simple",
+    "replaces_block": "minecraft:polished_andesite",
+    "replaces_with": "nomansland:polished_stone_slab"
+  },
+    {
+    "type": "blueprint:simple",
+    "replaces_block": "minecraft:granite_wall",
+    "replaces_with": "nomansland:siltstone_wall"
+  },
+    {
+    "type": "blueprint:simple",
+    "replaces_block": "minecraft:birch_trapdoor",
+    "replaces_with": "simulated:white_symmetric_sail"
+  }
+],
+  "structures": "nova_structures:ruin_town"
+}

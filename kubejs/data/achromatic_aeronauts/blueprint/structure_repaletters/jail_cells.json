@@ -1,0 +1,10 @@
+{
+  "repaletter": [
+    {
+    "type": "blueprint:simple",
+    "replaces_block": "minecraft:iron_door",
+    "replaces_with": "tuttasdoors:iron_bars_sliding_door"
+  }
+],
+  "structures": ["nova_structures:bunker", "minecraft:stronghold", "minecraft:fortress"]
+}
