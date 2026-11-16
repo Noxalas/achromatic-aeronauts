@@ -9,7 +9,7 @@
     "bees_avoid_ladders": true
   },
   "farmers_delight": {
-    "stoves_place_unlit": false
+    "stoves_place_unlit": true
   },
   "reconnectible_chains": {
     "enabled": false,
@@ -103,23 +103,23 @@
     "fix_rcon_newlines": true
   },
   "vanilla_gameplay": {
-    "flammable_cobwebs": false,
-    "campfires_place_unlit": false,
-    "campfires_ignite_entities": false,
+    "flammable_cobwebs": true,
+    "campfires_place_unlit": true,
+    "campfires_ignite_entities": true,
     "disable_axe_stripping": false,
     "disable_copper_scraping": false,
     "no_dinnerlava": false,
-    "ender_pearl_sound": false,
-    "cracking_spawn_eggs": false,
-    "disable_anvil_damage": false,
+    "ender_pearl_sound": true,
+    "cracking_spawn_eggs": true,
+    "disable_anvil_damage": true,
     "tridents_in_void_return": false,
-    "cactus_punching_hurts": false,
-    "chaining_creepers": false,
+    "cactus_punching_hurts": true,
+    "chaining_creepers": true,
     "furnace_minecart_any_fuel": false,
     "infibows": false,
     "tridents_accept_sharpness": false,
     "bedrock_impaling": false,
-    "nether_cauldron": false,
+    "nether_cauldron": true,
     "fire_aspect_is_flint_and_steel": false,
     "no_chest_when_targeted": false,
     "disable_path_creation": false,
@@ -127,8 +127,8 @@
     "disable_ender_pearl_damage": false,
     "dispenser_shears_pumpkins": false,
     "water_bottles_on_concrete": false,
-    "leaves_support_blocks": false,
-    "monsters_leave_boats": false
+    "leaves_support_blocks": true,
+    "monsters_leave_boats": true
   },
   "vanilla_gui": {
     "ctrl_drag_to_crafting_grid": true,
@@ -148,9 +148,9 @@
     "extra_item_icon_overlays": true,
     "better_copper_tooltips": true,
     "legible_signs": true,
-    "less_annoying_fire": false,
-    "pixel_consistent_block_drops": false,
-    "smooth_light": false,
+    "less_annoying_fire": true,
+    "pixel_consistent_block_drops": true,
+    "smooth_light": true,
     "smooth_light_fade_out_only": false,
     "smooth_light_fade_speed": 2,
     "nicer_map_colors": true

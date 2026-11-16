@@ -1,0 +1,15 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "Noxalas",
+      "uniqueId": "d350be22-1044-4022-bf6e-3d8578e3d0d3"
+    },
+    "time": 1794798610302,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/hHAkpdIpfZ"
+    }
+  }
+]

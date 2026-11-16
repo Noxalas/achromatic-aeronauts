@@ -1,0 +1,13 @@
+name = "Redelight-map"
+filename = "redelightmap-1.3.0+1.20.5-1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d6abcd0420abd4268fe6eb5f63ddfd6a8a1bffde"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8973922
+project-id = 1700105

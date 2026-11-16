@@ -996,11 +996,6 @@ hash = "db5615f66d4cb40b47c665cd4a4012b5d2ada34713eaf53a3791291febef3b3a"
 metafile = true
 
 [[files]]
-file = "mods/afterburner.pw.toml"
-hash = "c710db2ebb73f569d594ad6f1e5b166cfde70043f5c76cee6cacd67d5fd9a414"
-metafile = true
-
-[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "035d27b4ea4da57db6cb1b2999c5ee2017737310811f86fb29f80526718b05fc"
 metafile = true
@@ -1110,11 +1105,6 @@ hash = "3e4ef8a1b4a51f845e60751b2431cc599aa52b6a43a79dacaa5fc7aadc15fe1c"
 metafile = true
 
 [[files]]
-file = "mods/book-of-dragons.pw.toml"
-hash = "84b36f21beea1d5d226bceacabe42e5be0ec86e6b58cab70aa4544ff61273bb4"
-metafile = true
-
-[[files]]
 file = "mods/break-my-fall.pw.toml"
 hash = "6c0bc5a9d279fdcb69876c20e416004b785ebb48aeef3c24ecd812523d513990"
 metafile = true
@@ -1122,6 +1112,11 @@ metafile = true
 [[files]]
 file = "mods/brewin-and-chewin.pw.toml"
 hash = "22d9510588b081cf9905f6549d24bc11012aa8d9c7d38a8619ab9db5ccb7b9a8"
+metafile = true
+
+[[files]]
+file = "mods/bridging-mod.pw.toml"
+hash = "c50696cd98b02ba03425574c7850443f5cba8e097af4b6ae1c8b42bd5316a8eb"
 metafile = true
 
 [[files]]
@@ -1387,11 +1382,6 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "97347efd9e808841d72fe3599da8a11add8422e97f89ae1c85cdfc0acfa18f96"
-metafile = true
-
-[[files]]
-file = "mods/fauna-engine.pw.toml"
-hash = "eddaa680d735f590dd94b6928c851f941a22ceb0afc85bedd9558cd003d6fe2d"
 metafile = true
 
 [[files]]
@@ -1825,13 +1815,13 @@ hash = "d465abcc806c0d4fdeefb6a5e774cca4fff0ffd27d7c75954ab4688f4c9eaf05"
 metafile = true
 
 [[files]]
-file = "mods/quark.pw.toml"
-hash = "d22d14965fb93e68529f7b0861c11179b866e5c83a1cd5d394a8bf813653446b"
+file = "mods/reconnectible-chains.pw.toml"
+hash = "ff8a3f48dc5a384d781b8fb39f5895a07bbd325c024b2ac66dace4dc80aef8a0"
 metafile = true
 
 [[files]]
-file = "mods/reconnectible-chains.pw.toml"
-hash = "ff8a3f48dc5a384d781b8fb39f5895a07bbd325c024b2ac66dace4dc80aef8a0"
+file = "mods/redelight-map.pw.toml"
+hash = "270b4b89d06f3ccf99083d82b8cadc9b4e1c2f0edad0a1346f30a1fee9df9335"
 metafile = true
 
 [[files]]
@@ -2074,6 +2064,11 @@ file = "mods/thief.pw.toml.disabled"
 hash = "5e0c24d304c5109bce5f077812bb69cef7cb3d042506284644b7230760ab557d"
 
 [[files]]
+file = "mods/tide.pw.toml"
+hash = "7b4d98d9a07495eb4c8e7181a6fbff38ffed9cec7995104937cd17b764dcd9e0"
+metafile = true
+
+[[files]]
 file = "mods/tmrv.pw.toml"
 hash = "40f7d1c072b54e11492e7774835901d4f5d757b01cac54947657695f580afd3a"
 metafile = true
@@ -2081,6 +2076,11 @@ metafile = true
 [[files]]
 file = "mods/tolerable-creepers.pw.toml"
 hash = "f188c5a23a7b16f29e8fbcbf497eb8101b7db42c2182feba49aceabe54965836"
+metafile = true
+
+[[files]]
+file = "mods/treeliable.pw.toml"
+hash = "cabb8a46c8f7980fe51b2fc886fba07840b97684b51d4ee91339c4b0fb2530a1"
 metafile = true
 
 [[files]]

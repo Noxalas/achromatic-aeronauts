@@ -34,7 +34,7 @@
 	#Baby animals that are still growing follow players holding a golden dandelion. Requires Tiny Takeover Backport.
 	goldenDandelionTempting = false
 	#Ocean ruins generate prismarine chests instead of regular chests. Requires Quark. Only affects newly generated terrain.
-	oceanRuinPrismarineChests = false
+	oceanRuinPrismarineChests = true
 
 [features]
 	#Combine a named name tag with an item in the crafting grid to rename it. Takes effect after /reload.
@@ -76,7 +76,7 @@
 	#Sniffers can dig up golden dandelions. Requires Tiny Takeover Backport. Takes effect after /reload.
 	snifferGoldenDandelions = true
 	#Mining an ore also drops the stone it sits in, such as deepslate or netherrack. Takes effect after /reload.
-	oreStoneDrops = false
+	oreStoneDrops = true
 
 	[features.gameplay]
 		#Beds don't explode outside the Overworld; instead they show a message and wake sleeping villagers.
@@ -100,7 +100,7 @@
 		#Ghast fireballs no longer destroy blocks.
 		harmlessGhastFireballs = false
 		#Blocks tagged spicedcider:needs_axe_to_harvest (logs) only drop when broken with an axe.
-		logsNeedAxe = false
+		logsNeedAxe = true
 		#Stripping a log with an axe drops Tree Bark, which can be used on a stripped log to restore it.
 		treeBark = true
 		#Blocks tagged spicedcider:needs_hoe_to_harvest (moss) only drop when broken with a hoe.
@@ -180,7 +180,7 @@
 
 	[features.wind]
 		#Adds wind that changes direction and strength through the day, picks up in rain and storms, and comes in gusts. It is shared by every player and moves particles, clouds and hanging blocks. Adds the /wind command. Requires a restart to add or remove the command.
-		wind = false
+		wind = true
 		#Windmill bearings turn slower in calm air and faster in strong wind. Requires Create and the Wind option.
 		windCreateWindmills = true
 		#Wind vanes give a redstone signal that follows wind strength, and give none under shelter. Requires Supplementaries and the Wind option.
