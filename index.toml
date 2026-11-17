@@ -14,7 +14,7 @@ hash = "6003299fd97cb6b383ca3df88a2a676c565585799b1e14bb2987617ee189c7c2"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "df3f4efd73f439d693619624140e8c519243ccc29ce6a93cd85dad2f545f5433"
+hash = "0c475cd2f8b5e94b9fdc5a06bf01a6941f65e77c10fc5761ca91d7f17b25e275"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -445,20 +445,20 @@ file = "config/ars_nouveau/rewind.toml"
 hash = "cfba46b855cf3bef2c4792b313eb9bdfc28ecdf29792ab8996fb44840d8b3009"
 
 [[files]]
-file = "config/ars_nouveau/search_index/_1.cfe"
-hash = "2e4a51981beec8ebeb8163ee7654a121137ea7fa8fcb1a7ddd7ed254bb0195f0"
+file = "config/ars_nouveau/search_index/_2.cfe"
+hash = "d2503950741dc6b751984337c6aea22581710273adcfcc3ec886bfe2bb90cb33"
 
 [[files]]
-file = "config/ars_nouveau/search_index/_1.cfs"
-hash = "953faf0f5fbd49484e18c1cadea20e8cae4b278e46bc1c7dc93961d07ac16bef"
+file = "config/ars_nouveau/search_index/_2.cfs"
+hash = "f3e5e8d728ed407b3f3467592cdd2b6c15a105a0695b1132d8f1f017d6593edd"
 
 [[files]]
-file = "config/ars_nouveau/search_index/_1.si"
-hash = "70e6e509654390280707066be65b4a3713211eb443d1b02a50fafefddea666b3"
+file = "config/ars_nouveau/search_index/_2.si"
+hash = "f3f3e82100e8520671d0c4a0bedd1802a54744ceff6a33f1d42cad3f0cdcc505"
 
 [[files]]
-file = "config/ars_nouveau/search_index/segments_2"
-hash = "1d48551406402201aa1c96da916bcb883be54b1af5113d891abcb71d84c6570a"
+file = "config/ars_nouveau/search_index/segments_3"
+hash = "b17f2a7c3ae95223ae19ae94677dff2c06cb2d97c8edc0f0e928be2ecc77096f"
 
 [[files]]
 file = "config/ars_nouveau/search_index/write.lock"
@@ -1006,7 +1006,7 @@ hash = "ce17e22174f8d796e792c87dbe7c2cff8360686edfb59080adf905e26df144ea"
 
 [[files]]
 file = "config/moreculling.toml"
-hash = "007ac0620e05d777a38bce9e34c170574dc5b5c02b4fd893c7dd6e751cee309c"
+hash = "78794e29fb9b7b9d340643b62ed78551c11413aa4b4154690857d810a617df16"
 
 [[files]]
 file = "config/mortaar-server.toml"
@@ -1098,7 +1098,7 @@ hash = "8146b1dd30d431ee47f097c735570229a5e406eea215909de3d481022d4ef542"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "2c85737792c25c0c1258877c5d73766ee48ae11672438d7f43f520b24774ae00"
+hash = "42f191fbb64548d8a27e940486195214b32e361d1378913cb9a0404245ee39ef"
 
 [[files]]
 file = "config/particlerain/config.json"
@@ -1269,6 +1269,10 @@ file = "config/screenshot_viewer-client-3.toml.bak"
 hash = "6db46b1577dd78efdbc64a476bd0c1c8f5843a6aac8898420f126cc625417448"
 
 [[files]]
+file = "config/screenshot_viewer-client-4.toml.bak"
+hash = "6db46b1577dd78efdbc64a476bd0c1c8f5843a6aac8898420f126cc625417448"
+
+[[files]]
 file = "config/screenshot_viewer-client.toml"
 hash = "6db46b1577dd78efdbc64a476bd0c1c8f5843a6aac8898420f126cc625417448"
 
@@ -1411,6 +1415,14 @@ hash = "992ba9f3a4a7ce3de112eb95575328956fdc3ce6781c455ebce7b23db7e7da42"
 [[files]]
 file = "config/spark/tmp-client/about.txt"
 hash = "8057ccf4540ea269b0fc332225859f44d8f3a55d891fa2e7a3447b6202658d2a"
+
+[[files]]
+file = "config/spark/tmp-client/spark-27165059eafdd-libasyncProfiler.so.tmp"
+hash = "63311a249bcd85288de44a98274525058f1215f812c02d1adef07e5eee96ad7a"
+
+[[files]]
+file = "config/spark/tmp-client/spark-27244952bea33-profile-data.jfr.tmp"
+hash = "35b20c20eb5b2aa0c8f5593c37da1589bd1f10a55e37f0c90994d6406e745ac2"
 
 [[files]]
 file = "config/spark/tmp/about.txt"
@@ -1634,7 +1646,7 @@ hash = "ea1fa91de03d8f6f3c36b0c6cef77375a8365790ac0acb63fd558643d54d677f"
 
 [[files]]
 file = "config/zfastnoise.mixin.properties"
-hash = "766d20b968395b7f1d29a8262fb7010b669318e781c98c971a38b22a6d99282c"
+hash = "b955d62edee818519518dd71e5beb64e3fde910683c6716b0deb4420a470fc5b"
 
 [[files]]
 file = "config/zipline.json"
@@ -1651,6 +1663,14 @@ hash = "7adf22c1d2e8e552923773c6d092d8c5f7d5f0a3ac904201b8589647773ef26f"
 [[files]]
 file = "defaultconfigs/biolith/general.json"
 hash = "7f1e58be2cf7db18181869804bb09823ee93a4ea863d560036e8a05954bcf806"
+
+[[files]]
+file = "fieldguide_cache/cache_format"
+hash = "e7f6c011776e8db7cd330b54174fd76f7d0216b612387a5ffcfb81e6f0919683"
+
+[[files]]
+file = "fieldguide_cache/spawn/textures/fieldguide/entries/block_spawn_short_windswept_grass_grid.png"
+hash = "cdd5687d4048a4c13c7b82a1d1880f61dece10c999f139f6f9d90e1a836577bf"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -2849,6 +2869,16 @@ metafile = true
 [[files]]
 file = "mods/nirvana.pw.toml"
 hash = "600cb587148cd482a82ab297b14e90313483c617587c9cbbd04b435a2c28e858"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "5da18814472be5dc93a21886983646da3a7236413800075ac75229be82d114fa"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-restrictions.pw.toml"
+hash = "dc7e58c97d56d9764f578eb0afe6464e47701e7d72b5bd6a3d37e868bc0924bc"
 metafile = true
 
 [[files]]

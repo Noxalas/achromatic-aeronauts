@@ -1,1 +1,3 @@
 config/fieldguide_cache/
+config/spark/tmp-client/
+fieldguide_cache/
