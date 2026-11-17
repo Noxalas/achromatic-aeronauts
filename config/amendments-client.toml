@@ -144,3 +144,7 @@
 		#What the animation does when the selection texture is opaque. NONE keeps it on top of the items, IN_BACKGROUND moves it behind them, TURNS_OFF disables the animation
 		#Allowed Values: NONE, IN_BACKGROUND, TURNS_OFF
 		opaque_behavior = "IN_BACKGROUND"
+
+[buckets]
+	#Makes Axolotl buckets show the color of the axolotl inside
+	axolotl_variants = true
